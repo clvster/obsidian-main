@@ -1,5 +1,6 @@
 {
   "trashOption": "local",
   "newFileLocation": "root",
-  "attachmentFolderPath": "_resources/Images"
+  "attachmentFolderPath": "_resources/Images",
+  "showLineNumber": true
 }
