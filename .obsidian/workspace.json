@@ -13,11 +13,10 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/hw.md",
+                "file": "Education/Uni/Freshman (1st year)/Grades.md",
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
-                    false,
                     false,
                     false,
                     false,
@@ -27,7 +26,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "hw"
+              "title": "Grades"
             }
           }
         ]
@@ -189,14 +188,15 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "b887ad60c2548e99",
+  "active": "e72e8b2fcb1a780b",
   "lastOpenFiles": [
-    "Y.md",
     "Education/Uni/Freshman (1st year)/hw.md",
+    "Education/Goals.md",
     "Education/Uni/Freshman (1st year)/Grades.md",
-    "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 3. Образования центр. гос-ва.md",
-    "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 2. Древнерусское гос-во и его культурно-цивилизационные хар-ки.md",
     "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 1. История и историческая наука.md",
+    "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 2. Древнерусское гос-во и его культурно-цивилизационные хар-ки.md",
+    "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 3. Образования центр. гос-ва.md",
+    "Y.md",
     "Education/Uni/Freshman (1st year)/Untitled.canvas",
     "Education/Uni/Freshman (1st year)/Untitled Kanban.md",
     "Daily/2025-09-13.md",
@@ -208,7 +208,6 @@
     "Life/gym/План 1.md",
     "README.md",
     "Life/Tasks.md",
-    "Education/Goals.md",
     "Education/Uni/Freshman (1st year)",
     "Life/Untitled.canvas",
     "Life/Untitled.base",

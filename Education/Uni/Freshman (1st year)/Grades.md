@@ -6,8 +6,8 @@ kanban-plugin: list
 
 ## Math
 
-- [ ] IHW 1.1 3
 - [ ] IHW 1.1 | 3
+- [ ] IHW 1.2 | 3
 - [ ] IHW 1.3 | 3
 - [ ] IHW 1.5 | 4
 
@@ -30,10 +30,15 @@ kanban-plugin: list
 - [ ] Test1 | 5
 
 
+## English
+
+- [ ] hw1
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false],"show-checkboxes":false}
 ```
 %%

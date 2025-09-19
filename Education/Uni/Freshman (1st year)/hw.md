@@ -11,6 +11,7 @@ kanban-plugin: list
 
 ## Math logic & theory of algo
 
+- [x] test 1 ✅ 2025-09-19
 - [ ] 🔽 IHW 1 & test 2
 
 
@@ -24,9 +25,9 @@ kanban-plugin: list
 - [ ] 🔽 ➕ 2025-09-18 | lab1
 
 
-## English
+## History
 
-- [ ] 🔺 p7 ex 5;  p8 ex9 p 9 ex11
+- [x] 🔺 p7 ex 5;  p8 ex9 p 9 ex11 ✅ 2025-09-19
 
 
 ## History
@@ -39,6 +40,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,null,false],"show-checkboxes":true,"full-list-lane-width":true}
 ```
 %%
