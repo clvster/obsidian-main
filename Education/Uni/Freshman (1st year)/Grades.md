@@ -30,7 +30,15 @@ kanban-plugin: board
 ## Math logic & theory of algo
 
 - [ ] Test1 | 5
+<<<<<<< HEAD
 >>>>>>> parent of 8098408 (vault backup: 2025-09-19 10:01:13)
+=======
+
+
+## English
+
+- [ ] hw2
+>>>>>>> backup
 
 
 
