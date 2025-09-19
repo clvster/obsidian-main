@@ -1,13 +1,11 @@
 ---
 
-kanban-plugin: board
+kanban-plugin: list
 
 ---
 
 ## Math
 
-<<<<<<< HEAD
-=======
 - [ ] IHW 1.1 3
 - [ ] IHW 1.1 | 3
 - [ ] IHW 1.3 | 3
@@ -30,25 +28,17 @@ kanban-plugin: board
 ## Math logic & theory of algo
 
 - [ ] Test1 | 5
-<<<<<<< HEAD
->>>>>>> parent of 8098408 (vault backup: 2025-09-19 10:01:13)
-=======
 
 
 ## English
 
-- [ ] hw2
->>>>>>> backup
+- [ ] hw1
 
 
 
 
 %% kanban:settings
 ```
-<<<<<<< HEAD
-{"kanban-plugin":"board","list-collapse":[false]}
-=======
-{"kanban-plugin":"list","list-collapse":[false,false,false,false]}
->>>>>>> parent of 8098408 (vault backup: 2025-09-19 10:01:13)
+{"kanban-plugin":"list","show-checkboxes":false}
 ```
 %%
