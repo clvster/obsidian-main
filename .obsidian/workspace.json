@@ -15,12 +15,8 @@
               "state": {
                 "file": "Education/Uni/Freshman (1st year)/Grades.md",
                 "kanbanViewState": {
-                  "kanban-plugin": "list",
+                  "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
                     false
                   ]
                 }
@@ -191,8 +187,8 @@
   "active": "e72e8b2fcb1a780b",
   "lastOpenFiles": [
     "Education/Uni/Freshman (1st year)/hw.md",
-    "Education/Goals.md",
     "Education/Uni/Freshman (1st year)/Grades.md",
+    "Education/Goals.md",
     "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 1. История и историческая наука.md",
     "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 2. Древнерусское гос-во и его культурно-цивилизационные хар-ки.md",
     "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 3. Образования центр. гос-ва.md",
