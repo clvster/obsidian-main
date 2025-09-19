@@ -16,7 +16,7 @@ kanban-plugin: list
 
 ## C++
 
-- [ ] 🔼 lab1
+- [x] 🔼 lab1 ✅ 2025-09-19
 
 
 ## Python
