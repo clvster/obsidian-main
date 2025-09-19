@@ -13,16 +13,24 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/Grades.md",
+                "file": "Education/Uni/Freshman (1st year)/hw.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+<<<<<<< HEAD
+=======
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+>>>>>>> parent of 8098408 (vault backup: 2025-09-19 10:01:13)
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "Grades"
+              "title": "hw"
             }
           }
         ]
@@ -184,15 +192,23 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "e72e8b2fcb1a780b",
+  "active": "b887ad60c2548e99",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Education/Uni/Freshman (1st year)/hw.md",
     "Education/Uni/Freshman (1st year)/Grades.md",
     "Education/Goals.md",
     "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 1. История и историческая наука.md",
     "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 2. Древнерусское гос-во и его культурно-цивилизационные хар-ки.md",
     "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 3. Образования центр. гос-ва.md",
+=======
+>>>>>>> parent of 8098408 (vault backup: 2025-09-19 10:01:13)
     "Y.md",
+    "Education/Uni/Freshman (1st year)/hw.md",
+    "Education/Uni/Freshman (1st year)/Grades.md",
+    "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 3. Образования центр. гос-ва.md",
+    "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 2. Древнерусское гос-во и его культурно-цивилизационные хар-ки.md",
+    "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 1. История и историческая наука.md",
     "Education/Uni/Freshman (1st year)/Untitled.canvas",
     "Education/Uni/Freshman (1st year)/Untitled Kanban.md",
     "Daily/2025-09-13.md",
@@ -204,6 +220,7 @@
     "Life/gym/План 1.md",
     "README.md",
     "Life/Tasks.md",
+    "Education/Goals.md",
     "Education/Uni/Freshman (1st year)",
     "Life/Untitled.canvas",
     "Life/Untitled.base",
