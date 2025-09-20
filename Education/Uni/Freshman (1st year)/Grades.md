@@ -29,7 +29,8 @@ kanban-plugin: list
 
 ## Math logic & theory of algo
 
-- [ ] Test1 | 5
+- [ ] Test1 | 4
+- [ ] Test 2 | 3
 
 
 ## English
