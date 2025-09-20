@@ -38,7 +38,7 @@ kanban-plugin: list
 
 ## Introduction IT
 
-- [ ] 🔺 | ➕ 2025-09-20 | Lection 2
+- [x] 🔺 | ➕ 2025-09-20 | Lection 2 ✅ 2025-09-20
 
 
 

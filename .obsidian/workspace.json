@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/hw.md",
+                "file": "Education/Uni/Freshman (1st year)/Grades.md",
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
@@ -22,7 +22,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "hw"
+              "title": "Grades"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "8fcbc3842403d7c9",
   "lastOpenFiles": [
-    "Education/Uni/Freshman (1st year)/Grades.md",
     "Education/Uni/Freshman (1st year)/hw.md",
+    "Education/Uni/Freshman (1st year)/Grades.md",
     "Life/Tasks.md",
     "Education/Goals.md",
     "test.md"
