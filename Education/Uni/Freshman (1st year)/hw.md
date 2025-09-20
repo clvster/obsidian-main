@@ -27,6 +27,7 @@ kanban-plugin: list
 ## English
 
 - [x] 🔺 p7 ex 5;  p8 ex9 p 9 ex11 ✅ 2025-09-19
+- [ ] ➕ 2025-09-19 | Прочитать два текста про UK и US систему образования и выполнить: выписать неизвестные слова и их перевод; выучить эти слова; осмыслить и понять текст.
 
 
 ## History
@@ -35,10 +36,15 @@ kanban-plugin: list
 	Какие ремёсла исчезли?
 
 
+## Introduction IT
+
+- [ ] 🔺 | ➕ 2025-09-20 | Lection 2
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false]}
 ```
 %%
