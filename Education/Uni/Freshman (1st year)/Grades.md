@@ -6,10 +6,17 @@ kanban-plugin: list
 
 ## Math
 
-- [ ] IHW 1.1 3
 - [ ] IHW 1.1 | 3
+- [ ] IHW 1.2 | 3
 - [ ] IHW 1.3 | 3
 - [ ] IHW 1.5 | 4
+- [ ] IHW 1.6 | 4
+- [ ] IHW 1.7 | 4
+- [ ] IHW 1.8 | 1
+- [ ] IHW 1.9 | 2
+- [ ] IHW 1.10 | 1
+- [ ] IHW 1.11 | 4
+- [ ] IHW 1.12 | 3
 
 
 ## History
