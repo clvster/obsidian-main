@@ -31,12 +31,12 @@ kanban-plugin: list
 ## Introduction in IT
 
 - [ ] Lab1 | 4
-- [ ] Lection1| 0.5
+- [ ] Lection1 | 0.5
 
 
 ## Math logic & theory of algo
 
-- [ ] Test1 | 4
+- [ ] Test 1 | 4
 - [ ] Test 2 | 3
 
 
@@ -51,6 +51,7 @@ kanban-plugin: list
 - [ ] Practice 1
 - [ ] Practice 2
 - [ ] Practice 3
+- [ ] Practice 4
 
 
 
