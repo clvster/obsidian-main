@@ -17,12 +17,13 @@ kanban-plugin: list
 
 ## C++
 
-- [ ] 🔼 lab1
+- [x] 🔼 lab1 ✅ 2025-09-23
+- [ ] ➕ 2025-09-23 | 🔼 | lab2
 
 
 ## Python
 
-- [ ] 🔽 ➕ 2025-09-18 | lab1
+- [x] 🔽 ➕ 2025-09-18 | lab1 ✅ 2025-09-23
 - [ ] ➕ 2025-09-23 | 🔼 | tests with auto exam
 
 
@@ -44,7 +45,6 @@ kanban-plugin: list
 - [x] 🔺 | ➕ 2025-09-20 | Lection 2 ✅ 2025-09-20
 
 
-***
 
 
 %% kanban:settings

@@ -54,10 +54,15 @@ kanban-plugin: list
 - [ ] Practice 4
 
 
+## C++
+
+- [ ] ➕ 2025-09-23 | lab1 |
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false]}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false]}
 ```
 %%
