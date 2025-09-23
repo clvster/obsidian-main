@@ -6,7 +6,7 @@ kanban-plugin: list
 
 ## Math
 
-- [ ] ⏫ | 🏁 | ИДЗ 1.1 - 1.19
+- [x] ⏫ | ИДЗ 1.1 - 1.19
 - [ ] ➕ 2025-09-23 | ⏬ | Summary pptx 1-24
 
 

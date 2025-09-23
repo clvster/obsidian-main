@@ -17,6 +17,13 @@ kanban-plugin: list
 - [ ] IHW 1.10 | 1
 - [ ] IHW 1.11 | 4
 - [ ] IHW 1.12 | 3
+- [ ] IHW 1.13 | 1
+- [ ] IHW 1.14 | 5
+- [ ] IHW 1.15 | 3
+- [ ] IHW 1.16 | 2
+- [ ] IHW 1.17 | 1
+- [ ] IHW 1.18 | 3
+- [ ] IHW 1.19 | 2
 
 
 ## History
