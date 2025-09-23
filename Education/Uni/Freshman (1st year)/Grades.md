@@ -70,6 +70,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false]}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[true,false]}
 ```
 %%
