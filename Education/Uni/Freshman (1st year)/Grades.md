@@ -33,6 +33,7 @@ kanban-plugin: list
 - [ ] Lecture | 0.5
 - [ ] Test 3.1 | 2
 - [ ] Test 3.2 | 2
+- [ ] Joined in tg and vk groups | 2
 
 
 ## Introduction in IT
