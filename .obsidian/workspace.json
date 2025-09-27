@@ -13,16 +13,18 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/hw.md",
+                "file": "Education/Uni/Freshman (1st year)/Grades.md",
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
+                    null,
+                    false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "hw"
+              "title": "Grades"
             }
           }
         ]
@@ -186,10 +188,15 @@
   },
   "active": "8fcbc3842403d7c9",
   "lastOpenFiles": [
-    "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 4. Русские земли и княжества в X - середине XV в..md",
-    "Education/Uni/Freshman (1st year)/Subjects/History/Drawing 2025-09-25 10.34.04.excalidraw.md",
     "Education/Uni/Freshman (1st year)/hw.md",
     "Education/Uni/Freshman (1st year)/Grades.md",
+    "Education/Uni/Freshman (1st year)/Subjects/History/Лекция 4. Русские земли и княжества в X - середине XV в..md",
+    "_resources/Images/Pasted image 20250927111713.png",
+    "_resources/Images/Pasted image 20250927105323.png",
+    "_resources/Images/Pasted image 20250927104907.png",
+    "_resources/Images/Pasted image 20250927104312.png",
+    "_resources/Images",
+    "Education/Uni/Freshman (1st year)/Subjects/History/Drawing 2025-09-25 10.34.04.excalidraw.md",
     "Life/Tasks.md",
     "Education/Goals.md",
     "test.md"

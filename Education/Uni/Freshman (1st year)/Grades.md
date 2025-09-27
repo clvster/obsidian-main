@@ -6,24 +6,8 @@ kanban-plugin: list
 
 ## Math
 
-- [ ] IHW 1.1 | 3
-- [ ] IHW 1.2 | 3
-- [ ] IHW 1.3 | 3
-- [ ] IHW 1.5 | 4
-- [ ] IHW 1.6 | 4
-- [ ] IHW 1.7 | 4
-- [ ] IHW 1.8 | 1
-- [ ] IHW 1.9 | 2
-- [ ] IHW 1.10 | 1
-- [ ] IHW 1.11 | 4
-- [ ] IHW 1.12 | 3
-- [ ] IHW 1.13 | 1
-- [ ] IHW 1.14 | 5
-- [ ] IHW 1.15 | 3
-- [ ] IHW 1.16 | 2
-- [ ] IHW 1.17 | 1
-- [ ] IHW 1.18 | 3
-- [ ] IHW 1.19 | 2
+- [ ] IHW 1.19 | N
+- [ ] CW | N
 
 
 ## History
@@ -34,12 +18,18 @@ kanban-plugin: list
 - [ ] Test 3.1 | 2
 - [ ] Test 3.2 | 2
 - [ ] Joined in tg and vk groups | 2
+- [ ] Test 1 | 0.45
+- [ ] Test 2 | 0.5
+- [ ] Test 3 | 0.45
+- [ ] Test 4 | 0.5
 
 
 ## Introduction in IT
 
 - [ ] Lab1 | 4
 - [ ] Lection1 | 0.5
+- [ ] Lection2 | 1
+- [ ] Lab2 | N
 
 
 ## Math logic & theory of algo
@@ -60,17 +50,19 @@ kanban-plugin: list
 - [ ] Practice 2
 - [ ] Practice 3
 - [ ] Practice 4
+- [ ] Practice 5
+- [ ] Practice 6
 
 
 ## C++
 
-- [ ] ➕ 2025-09-23 | lab1 |
+- [ ] ➕ 2025-09-23 | lab1 | 6
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[true,false]}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[null,false,false]}
 ```
 %%
