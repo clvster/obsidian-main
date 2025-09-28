@@ -30,6 +30,7 @@ kanban-plugin: list
 - [ ] Lection1 | 0.5
 - [ ] Lection2 | 1
 - [ ] Lab2 | N
+- [ ] Lection3 | 1
 
 
 ## Math logic & theory of algo
@@ -42,6 +43,8 @@ kanban-plugin: list
 
 - [ ] hw1.1
 - [ ] hw1.2
+- [ ] hw1.3
+- [ ] hw1.4
 
 
 ## Physical Education
