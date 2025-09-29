@@ -8,6 +8,7 @@ kanban-plugin: list
 
 - [x] ⏫ | ИДЗ 1.1 - 1.19
 - [x] ➕ 2025-09-23 | ⏬ | 🏁 | Summary pptx 1-24 ✅ 2025-09-28
+- [ ] ➕ 2025-09-29  | 🔽 | ihw 2.1 - 2.5
 
 
 ## Math logic & theory of algo
@@ -19,7 +20,7 @@ kanban-plugin: list
 ## C++
 
 - [x] 🔼 lab1 ✅ 2025-09-23
-- [ ] ➕ 2025-09-23 | 🔼 | lab2
+- [x] ➕ 2025-09-23 | 🔼 | lab2 ✅ 2025-09-30
 
 
 ## Python
