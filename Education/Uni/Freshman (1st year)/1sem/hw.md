@@ -26,7 +26,7 @@ kanban-plugin: list
 ## Python
 
 - [x] 🔽 ➕ 2025-09-18 | lab1 ✅ 2025-09-23
-- [ ] ➕ 2025-09-23 | 🔼 | tests with auto exam
+- [ ] ➕ 2025-09-23 | 🔽 | 🏁 | tests with auto exam
 
 
 ## English
@@ -35,11 +35,12 @@ kanban-plugin: list
 - [x] ➕ 2025-09-19 | Прочитать два текста про UK и US систему образования и выполнить: выписать неизвестные слова и их перевод; выучить эти слова; осмыслить и понять текст. ✅ 2025-09-23
 - [x] ➕ 2025-09-23 | 🔼 | 🏁 | stud.lms ✅ 2025-09-29
 - [x] ➕ 2025-09-26 | 🔽 | stud.lms 1.4 ✅ 2025-09-29
+- [ ] ➕ 2025-09-30 | 🔺 | stud.lms 1.5
 
 
 ## History
 
-- [ ] 🔽 Последствия монгольской зависимости с 13 по 15в. 5 лекция прочитать про неё. Тест 3.2.
+- [x] 🔽 Последствия монгольской зависимости с 13 по 15в. 5 лекция прочитать про неё. Тест 3.2. ✅ 2025-09-30
 	Какие ремёсла исчезли?
 - [ ] ➕ 2025-09-25 | 🔼 | 🏁 | будут тесты. Не забывать вписать группу и ФИО. Дз с ЭК
 
@@ -56,6 +57,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,null,null,null,null,true]}
 ```
 %%
