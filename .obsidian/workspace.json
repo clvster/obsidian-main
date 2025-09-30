@@ -13,21 +13,20 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/1sem/hw.md",
+                "file": "Education/Uni/Freshman (1st year)/1sem/Grades.md",
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
+                    null,
+                    true,
                     false,
-                    null,
-                    null,
-                    null,
                     null,
                     true
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "hw"
+              "title": "Grades"
             }
           }
         ]
@@ -191,9 +190,9 @@
   },
   "active": "8fcbc3842403d7c9",
   "lastOpenFiles": [
+    "Education/Uni/Freshman (1st year)/1sem/hw.md",
     "Education/Uni/Freshman (1st year)/1sem/Grades.md",
     "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
-    "Education/Uni/Freshman (1st year)/1sem/hw.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/History/Лекция 2. Древнерусское гос-во и его культурно-цивилизационные хар-ки.md",
     "Education/Uni/Freshman (1st year)/1sem",
     "Education/Goals.md",

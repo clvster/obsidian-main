@@ -13,7 +13,7 @@ kanban-plugin: list
 
 ## Math logic & theory of algo
 
-- [ ] 🔼 | 🏁 | IHW 1 & test 2
+- [x] 🔼 | 🏁 | IHW 1 & test 2 ✅ 2025-10-01
 - [ ] 🔼 | ➕ 2025-09-24 | IHW 2
 
 
