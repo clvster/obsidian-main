@@ -55,6 +55,7 @@ kanban-plugin: list
 - [ ] Practice 4
 - [ ] Practice 5
 - [ ] Practice 6
+- [ ] Practice 7
 
 
 ## C++
