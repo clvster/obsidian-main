@@ -35,8 +35,8 @@ kanban-plugin: list
 
 ## Math logic & theory of algo
 
-- [ ] Test 1 | 4
-- [ ] Test 2 | 3
+- [ ] Test 1 | 2
+- [ ] Test 2 | 1,5
 - [ ] IHW1 | N
 
 
