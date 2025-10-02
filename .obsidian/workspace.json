@@ -11,23 +11,14 @@
             "id": "64642efde08ba78f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/1sem/hw.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    null,
-                    null,
-                    null,
-                    null,
-                    false
-                  ]
-                }
+                "file": "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Лекция 2..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "hw"
+              "icon": "lucide-file",
+              "title": "Лекция 2."
             }
           }
         ]
@@ -136,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/hw.md",
+                "file": "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Лекция 2..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hw"
+              "title": "Outline of Лекция 2."
             }
           },
           {
@@ -164,13 +155,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b14c4718c4b71cd1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 361
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +190,13 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "64642efde08ba78f",
+  "active": "009668f7b4ca279c",
   "lastOpenFiles": [
-    "Education/Uni/Freshman (1st year)/1sem/Grades.md",
     "Education/Uni/Freshman (1st year)/1sem/hw.md",
+    "Life/gym/План 1.md",
+    "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Лекция 2..md",
+    "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT",
+    "Education/Uni/Freshman (1st year)/1sem/Grades.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/History/Лекция 5. Культурное развитие русских земель и княжеств.md",
     "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/History/Лекция 2. Древнерусское гос-во и его культурно-цивилизационные хар-ки.md",

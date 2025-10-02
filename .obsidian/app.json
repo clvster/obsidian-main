@@ -2,5 +2,8 @@
   "trashOption": "local",
   "newFileLocation": "root",
   "attachmentFolderPath": "_resources/Images",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "useTab": false,
+  "tabSize": 4,
+  "showIndentGuide": false
 }

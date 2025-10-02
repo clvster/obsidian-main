@@ -2,6 +2,7 @@
   "cssTheme": "AnuPpuccin",
   "accentColor": "",
   "enabledCssSnippets": [
-    "extended-colorshemes"
+    "extended-colorshemes",
+    "indent"
   ]
 }
