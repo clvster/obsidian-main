@@ -46,6 +46,7 @@ kanban-plugin: list
 - [ ] hw1.2
 - [ ] hw1.3
 - [ ] hw1.4
+- [ ] hw1.5
 
 
 ## Physical Education
@@ -57,6 +58,7 @@ kanban-plugin: list
 - [ ] Practice 5
 - [ ] Practice 6
 - [ ] Practice 7
+- [ ] ➕ 2025-10-02 | Practice 8
 
 
 ## C++
