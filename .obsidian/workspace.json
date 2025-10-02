@@ -4,29 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "6ae0fd7e3b585c6c",
+        "id": "03b62c84f1af1abd",
         "type": "tabs",
         "children": [
           {
-            "id": "8fcbc3842403d7c9",
+            "id": "64642efde08ba78f",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/1sem/Grades.md",
+                "file": "Education/Uni/Freshman (1st year)/1sem/hw.md",
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
-                    null,
-                    true,
                     false,
+                    null,
+                    null,
+                    null,
                     null,
                     true
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "Grades"
+              "title": "hw"
             }
           }
         ]
@@ -188,11 +189,11 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "8fcbc3842403d7c9",
+  "active": "f71a0fbe1dab347f",
   "lastOpenFiles": [
-    "Education/Uni/Freshman (1st year)/1sem/hw.md",
     "Education/Uni/Freshman (1st year)/1sem/Grades.md",
     "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
+    "Education/Uni/Freshman (1st year)/1sem/hw.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/History/Лекция 2. Древнерусское гос-во и его культурно-цивилизационные хар-ки.md",
     "Education/Uni/Freshman (1st year)/1sem",
     "Education/Goals.md",
