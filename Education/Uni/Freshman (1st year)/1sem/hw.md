@@ -21,7 +21,7 @@ kanban-plugin: list
 ## C++
 
 - [x] 🔼 lab1 ✅ 2025-09-23
-- [ ] ➕ 2025-09-23 | 🔼 | 🏁 | lab2 - must be done report
+- [x] ➕ 2025-09-23 | 🔼 | 🏁 | lab2 - must be done report ✅ 2025-10-02
 
 
 ## Python
@@ -42,7 +42,7 @@ kanban-plugin: list
 ## History
 
 - [x] 🔽 Последствия монгольской зависимости с 13 по 15в. 5 лекция прочитать про неё. Тест 3.2. ✅ 2025-09-30
-	Какие ремёсла исчезли?
+    Какие ремёсла исчезли?
 - [ ] ➕ 2025-09-25 | 🔼 | 🏁 | будут тесты. Не забывать вписать группу и ФИО. Дз с ЭК
 - [ ] ➕ 2025-10-02 |🔺| Блиц-опрос
 
@@ -59,6 +59,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,null,null,null,null,false]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,null,null,false,true,true]}
 ```
 %%
