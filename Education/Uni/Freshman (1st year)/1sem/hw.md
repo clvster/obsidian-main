@@ -9,6 +9,7 @@ kanban-plugin: list
 - [x] ⏫ | ИДЗ 1.1 - 1.19
 - [x] ➕ 2025-09-23 | ⏬ | 🏁 | Summary pptx 1-24 ✅ 2025-09-28
 - [ ] ➕ 2025-09-29  | 🔽 | ihw 2.1 - 2.7
+- [ ] ➕ 2025-10-01 | 🔽 | summary pptx 24 - 50
 
 
 ## Math logic & theory of algo
