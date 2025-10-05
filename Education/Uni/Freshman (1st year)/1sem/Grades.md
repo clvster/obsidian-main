@@ -10,27 +10,29 @@ kanban-plugin: list
 - [ ] CW | N
 
 
-## History
+## C++
 
-- [ ] Practice | 5
-- [ ] Lecture | 0.5
-- [ ] Lecture | 0.5
-- [ ] Test 3.1 | 2
-- [ ] Test 3.2 | 2
-- [ ] Joined in tg and vk groups | 2
-- [ ] Test 1 | 0.45
-- [ ] Test 2 | 0.5
-- [ ] Test 3 | 0.45
-- [ ] Test 4 | 0.5
+- [ ] ➕ 2025-09-23 | lab1 | 6
+- [ ] ➕ 2025-10-04 | lab2 | 6
+
+
+## Python
+
+- [ ] ➕ 2025-10-06 | autotest1 | 4
+- [ ] ➕ 2025-10-06 | autotest2 | 6
+- [ ] ➕ 2025-10-06 | autotest3 | ?
+- [ ] ➕ 2025-10-06 | autotest4 | ?
 
 
 ## Introduction in IT
 
-- [ ] Lab1 | 4
 - [ ] Lection1 | 0.5
 - [ ] Lection2 | 1
-- [ ] Lab2 | N
 - [ ] Lection3 | 1
+- [ ] Lection4 | N
+- [ ] Lab1 | 4
+- [ ] Lab2 | N
+- [ ] Lab4-5 | N
 
 
 ## Math logic & theory of algo
@@ -38,15 +40,6 @@ kanban-plugin: list
 - [ ] Test 1 | 2
 - [ ] Test 2 | 1,5
 - [ ] IHW1 | 2
-
-
-## English
-
-- [ ] hw1.1
-- [ ] hw1.2
-- [ ] hw1.3
-- [ ] hw1.4
-- [ ] hw1.5
 
 
 ## Physical Education
@@ -61,16 +54,33 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-02 | Practice 8
 
 
-## C++
+## English
 
-- [ ] ➕ 2025-09-23 | lab1 | 6
-- [ ] ➕ 2025-10-04 | lab2 | 6
+- [ ] hw1.1
+- [ ] hw1.2
+- [ ] hw1.3
+- [ ] hw1.4
+- [ ] hw1.5
+
+
+## History
+
+- [ ] Practice | 5
+- [ ] Lecture | 0.5
+- [ ] Lecture | 0.5
+- [ ] Test 3.1 | 2
+- [ ] Test 3.2 | 2
+- [ ] Joined in tg and vk groups | 2
+- [ ] Test 1 | 0.45
+- [ ] Test 2 | 0.5
+- [ ] Test 3 | 0.45
+- [ ] Test 4 | 0.5
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[null,true,false,null,true]}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[null,true,true,true,true,true,true,true],"full-list-lane-width":true}
 ```
 %%

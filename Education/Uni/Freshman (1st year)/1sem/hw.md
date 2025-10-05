@@ -28,7 +28,7 @@ kanban-plugin: list
 ## Python
 
 - [x] 🔽 ➕ 2025-09-18 | lab1 ✅ 2025-09-23
-- [ ] ➕ 2025-09-23 | 🔽 | 🏁 | tests with auto exam
+- [ ] ➕ 2025-09-23 | 🔺 | 🏁 | tests with auto exam
 
 
 ## English
@@ -53,13 +53,13 @@ kanban-plugin: list
 - [x] 🔺 | ➕ 2025-09-20 | Lection 2 ✅ 2025-09-20
 - [x] ➕ 2025-09-25 | 🔺 | спросить как сделать отчёт про лабу 2 ✅ 2025-09-27
 - [x] ➕ 2025-09-27 | 🔺 | Lection 3 ✅ 2025-09-28
-- [ ] ➕ 2025-09-30 | 🔺 | 🏁 | Lab4-5
+- [x] ➕ 2025-09-30 | 🔺 | 🏁 | Lab4-5 ✅ 2025-10-06
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,null,null,false,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,null,null,false,true,true,true]}
 ```
 %%
