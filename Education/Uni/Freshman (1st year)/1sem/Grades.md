@@ -37,7 +37,7 @@ kanban-plugin: list
 
 - [ ] Test 1 | 2
 - [ ] Test 2 | 1,5
-- [ ] IHW1 | N
+- [ ] IHW1 | 2
 
 
 ## English
@@ -64,6 +64,7 @@ kanban-plugin: list
 ## C++
 
 - [ ] ➕ 2025-09-23 | lab1 | 6
+- [ ] ➕ 2025-10-04 | lab2 | 6
 
 
 
