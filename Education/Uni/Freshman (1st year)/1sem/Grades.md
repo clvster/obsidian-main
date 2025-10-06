@@ -29,7 +29,7 @@ kanban-plugin: list
 - [ ] Test 1 | 2
 - [ ] Test 2 | 1,5
 - [ ] IHW1 | 2
-- [ ] ➕ 2025-10-06 | IHW2 | N
+- [ ] ➕ 2025-10-06 | IHW2 | 4
 
 
 ## Introduction in IT
@@ -82,6 +82,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[null,true,true,false,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[null,true,true,true,true,true,true,true],"full-list-lane-width":true}
 ```
 %%
