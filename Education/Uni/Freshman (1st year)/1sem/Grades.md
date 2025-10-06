@@ -39,7 +39,7 @@ kanban-plugin: list
 - [ ] Lection3 | 1
 - [ ] Lection4 | N
 - [ ] Lab1 | 4
-- [ ] Lab2 | N
+- [ ] Lab2 | 4
 - [ ] Lab4-5 | N
 
 
