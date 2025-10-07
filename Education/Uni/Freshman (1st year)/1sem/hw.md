@@ -4,6 +4,14 @@ kanban-plugin: list
 
 ---
 
+## TrainOfAlgos
+
+- [ ] Lection 1
+- [ ] hw1
+- [ ] Lection 2
+- [ ] hw2
+
+
 ## Math
 
 - [x] ⏫ | ИДЗ 1.1 - 1.19
@@ -60,6 +68,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,null,null,false,true,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,false,true,null,false,true,true,true]}
 ```
 %%

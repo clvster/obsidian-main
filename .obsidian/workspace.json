@@ -18,7 +18,8 @@
                   "kanban-plugin": "list",
                   "list-collapse": [
                     false,
-                    null,
+                    false,
+                    true,
                     null,
                     false,
                     true,
@@ -202,9 +203,9 @@
   },
   "active": "64642efde08ba78f",
   "lastOpenFiles": [
-    "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
     "Education/Uni/Freshman (1st year)/1sem/Grades.md",
     "Education/Uni/Freshman (1st year)/1sem/hw.md",
+    "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Лекция 2..md",
     "Life/gym/План 1.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT",
