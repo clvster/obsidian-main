@@ -6,9 +6,11 @@ kanban-plugin: list
 
 ## TrainOfAlgos
 
-- [ ] Lection 1
-- [ ] hw1
+- [x] Lection 1 ✅ 2025-10-09
 - [ ] Lection 2
+- [ ] hw1
+- [x] Lection 3 ✅ 2025-10-09
+- [ ] Lection 4
 - [ ] hw2
 
 
@@ -16,7 +18,7 @@ kanban-plugin: list
 
 - [x] ⏫ | ИДЗ 1.1 - 1.19
 - [x] ➕ 2025-09-23 | ⏬ | 🏁 | Summary pptx 1-24 ✅ 2025-09-28
-- [ ] ➕ 2025-09-29  | 🔼 | 🏁 | ihw 2.1 - 2.18
+- [ ] ➕ 2025-09-29  | 🔼 | 🏁 | ihw 2.8 - 2.18
 - [x] ➕ 2025-10-01 | ⏫ | 🏁 | summary pptx 24 - 50 ✅ 2025-10-08
 
 
@@ -40,6 +42,14 @@ kanban-plugin: list
 - [ ] ➕ 2025-09-23 | 🔺 | 🏁 | tests with auto exam
 
 
+## Introduction IT
+
+- [x] 🔺 | ➕ 2025-09-20 | Lection 2 ✅ 2025-09-20
+- [x] ➕ 2025-09-25 | 🔺 | спросить как сделать отчёт про лабу 2 ✅ 2025-09-27
+- [x] ➕ 2025-09-27 | 🔺 | Lection 3 ✅ 2025-09-28
+- [x] ➕ 2025-09-30 | 🔺 | 🏁 | Lab4-5 ✅ 2025-10-06
+
+
 ## English
 
 - [x] 🔺 p7 ex 5;  p8 ex9 p 9 ex11 ✅ 2025-09-19
@@ -57,18 +67,10 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-02 |🔺| Блиц-опрос
 
 
-## Introduction IT
-
-- [x] 🔺 | ➕ 2025-09-20 | Lection 2 ✅ 2025-09-20
-- [x] ➕ 2025-09-25 | 🔺 | спросить как сделать отчёт про лабу 2 ✅ 2025-09-27
-- [x] ➕ 2025-09-27 | 🔺 | Lection 3 ✅ 2025-09-28
-- [x] ➕ 2025-09-30 | 🔺 | 🏁 | Lab4-5 ✅ 2025-10-06
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,false,true,true,false,true,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,false,false,false,false,true,true,true]}
 ```
 %%
