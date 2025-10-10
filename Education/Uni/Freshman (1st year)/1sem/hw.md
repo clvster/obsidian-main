@@ -39,7 +39,7 @@ kanban-plugin: list
 ## Python
 
 - [x] 🔽 ➕ 2025-09-18 | lab1 ✅ 2025-09-23
-- [ ] ➕ 2025-09-23 | 🔺 | 🏁 | tests with auto exam
+- [x] ➕ 2025-09-23 | 🔺 | 🏁 | tests with auto exam ✅ 2025-10-10
 
 
 ## Introduction IT

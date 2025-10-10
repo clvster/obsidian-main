@@ -11,14 +11,25 @@
             "id": "64642efde08ba78f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Лекция 2..md",
-                "mode": "preview",
-                "source": false
+                "file": "Education/Uni/Freshman (1st year)/1sem/hw.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    true,
+                    true,
+                    true
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Лекция 2."
+              "icon": "lucide-trello",
+              "title": "hw"
             }
           }
         ]
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 272
   },
   "right": {
     "id": "152121f99d72aa65",
@@ -193,13 +204,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "64642efde08ba78f",
+  "active": "f71a0fbe1dab347f",
   "lastOpenFiles": [
-    "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Untitled.pdf",
-    "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Лекция 2..md",
-    "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/~$кция 2..md",
-    "Education/Uni/Freshman (1st year)/1sem/hw.md",
     "Education/Uni/Freshman (1st year)/1sem/Grades.md",
+    "Education/Uni/Freshman (1st year)/1sem/hw.md",
+    "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Лекция 2..md",
+    "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Untitled.pdf",
+    "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/~$кция 2..md",
     "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
     "Life/gym/План 1.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT",
