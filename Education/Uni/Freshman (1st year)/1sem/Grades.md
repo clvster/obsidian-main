@@ -22,6 +22,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-06 | autotest2 | 6
 - [ ] ➕ 2025-10-06 | autotest3 | ?
 - [ ] ➕ 2025-10-06 | autotest4 | ?
+- [ ] ➕ 2025-10-10 | lab1 | 5
 
 
 ## Math logic & theory of algo
