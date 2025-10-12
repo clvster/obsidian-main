@@ -39,6 +39,7 @@ kanban-plugin: list
 - [ ] Lection2 | 1
 - [ ] Lection3 | 1
 - [ ] Lection4 | N
+- [ ] Lection5 | N
 - [ ] Lab1 | 4
 - [ ] Lab2 | 4
 - [ ] Lab4-5 | N
@@ -83,6 +84,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,true,false,true,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,true,true,true,false,true,true,true],"full-list-lane-width":true}
 ```
 %%
