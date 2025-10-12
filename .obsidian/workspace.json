@@ -19,7 +19,7 @@
                   "list-collapse": [
                     false,
                     false,
-                    false,
+                    true,
                     false,
                     false,
                     true,
@@ -206,9 +206,9 @@
   },
   "active": "64642efde08ba78f",
   "lastOpenFiles": [
-    "Education/Goals.md",
     "Education/Uni/Freshman (1st year)/1sem/Grades.md",
     "Education/Uni/Freshman (1st year)/1sem/hw.md",
+    "Education/Goals.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Лекция 2..md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Untitled.pdf",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/~$кция 2..md",
