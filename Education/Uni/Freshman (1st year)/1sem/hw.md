@@ -18,7 +18,7 @@ kanban-plugin: list
 
 - [x] ⏫ | ИДЗ 1.1 - 1.19
 - [x] ➕ 2025-09-23 | ⏬ | 🏁 | Summary pptx 1-24 ✅ 2025-09-28
-- [ ] ➕ 2025-09-29  | 🔼 | 🏁 | ihw 2.14 - 2.18
+- [x] ➕ 2025-09-29  | 🔼 | 🏁 | ihw 2.14 - 2.18 ✅ 2025-10-16
 - [x] ➕ 2025-10-01 | ⏫ | 🏁 | summary pptx 24 - 50 ✅ 2025-10-08
 
 
@@ -76,6 +76,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,false,false,false,false,true,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,false,false,true,false,true,true,true]}
 ```
 %%

@@ -6,8 +6,9 @@ kanban-plugin: list
 
 ## Math
 
-- [ ] IHW 1.19 | 1
+- [ ] IHW1 | 1
 - [ ] CW | 4
+- [ ] IHW2 | N
 
 
 ## C++
