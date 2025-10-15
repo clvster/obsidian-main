@@ -27,6 +27,7 @@ kanban-plugin: list
 - [x] 🔼 | 🏁 | IHW 1 & test 2 ✅ 2025-10-01
 - [x] 🔺  | ➕ 2025-09-24 | IHW 2 ✅ 2025-10-06
 - [x] ➕ 2025-10-08 | 🔽 | IHW 3 ✅ 2025-10-13
+- [ ] ➕ 2025-10-15 | 🔽 | Summary theme 5, 6
 
 
 ## C++
@@ -73,6 +74,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,false,true,false,false,true,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,false,false,false,false,true,true,true]}
 ```
 %%
