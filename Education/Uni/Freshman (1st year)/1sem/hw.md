@@ -37,6 +37,7 @@ kanban-plugin: list
 - [x] 🔼 lab1 ✅ 2025-09-23
 - [x] ➕ 2025-09-23 | 🔼 | 🏁 | lab2 - must be done report ✅ 2025-10-02
 - [x] ➕ 2025-10-05 | 🔽 | lab3 ✅ 2025-10-15
+- [ ] ➕ 2025-10-16 | 🔽 | lab4
 
 
 ## Python
@@ -76,6 +77,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,false,false,true,false,true,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,false,true,true,true,true,true,true]}
 ```
 %%

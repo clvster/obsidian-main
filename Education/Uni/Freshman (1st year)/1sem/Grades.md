@@ -15,6 +15,7 @@ kanban-plugin: list
 
 - [ ] ➕ 2025-09-23 | lab1 | 6
 - [ ] ➕ 2025-10-04 | lab2 | 6
+- [ ] ➕ 2025-10-16 | lab3 | N
 
 
 ## Python
@@ -32,7 +33,7 @@ kanban-plugin: list
 - [ ] Test 2 | 1,5
 - [ ] IHW1 | 2
 - [ ] ➕ 2025-10-06 | IHW2 | 4
-- [ ] ➕ 2025-10-13 | IHW3 | N
+- [ ] ➕ 2025-10-13 | IHW3 | 3
 
 
 ## Introduction in IT
