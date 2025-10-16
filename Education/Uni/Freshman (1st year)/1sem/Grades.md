@@ -59,6 +59,7 @@ kanban-plugin: list
 - [ ] Practice 7
 - [ ] ➕ 2025-10-02 | Practice 8
 - [ ] ➕ 2025-10-13 | Practice 9
+- [ ] ➕ 2025-10-16 | Practice 10
 
 
 ## English
@@ -88,6 +89,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,true,true,true,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,true,true,true,false,true,true],"full-list-lane-width":true}
 ```
 %%
