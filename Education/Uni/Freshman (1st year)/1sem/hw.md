@@ -20,6 +20,7 @@ kanban-plugin: list
 - [x] ➕ 2025-09-23 | ⏬ | 🏁 | Summary pptx 1-24 ✅ 2025-09-28
 - [x] ➕ 2025-09-29  | 🔼 | 🏁 | ihw 2.14 - 2.18 ✅ 2025-10-16
 - [x] ➕ 2025-10-01 | ⏫ | 🏁 | summary pptx 24 - 50 ✅ 2025-10-08
+- [ ] ➕ 2025-10-18 | 🔽 | ihw 2.19 - 2.25
 
 
 ## Math logic & theory of algo
@@ -28,8 +29,8 @@ kanban-plugin: list
 - [x] 🔺  | ➕ 2025-09-24 | IHW 2 ✅ 2025-10-06
 - [x] ➕ 2025-10-08 | 🔽 | IHW 3 ✅ 2025-10-13
 - [ ] ➕ 2025-10-15 | 🔽 | Summary theme 5, 6
-- [ ] ➕ 2025-10-15 | IHW 4
-- [ ] ➕ 2025-10-15 | Test 4
+- [ ] ➕ 2025-10-15 | 🔼 | IHW 4
+- [ ] ➕ 2025-10-15 | 🔼 | Test 4
 
 
 ## C++
@@ -55,6 +56,7 @@ kanban-plugin: list
 - [x] ➕ 2025-09-30 | 🔺 | 🏁 | Lab4-5 ✅ 2025-10-06
 - [x] ➕ 2025-10-11 | 🔺 | Lection5 ✅ 2025-10-12
 - [ ] ➕ 2025-10-16 | 🔽 | lab3
+- [ ] ➕ 2025-10-18 |🔺| Lection6
 
 
 ## English
@@ -78,6 +80,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,true,false,false,false,false,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,false,false,false,false,false,true,true]}
 ```
 %%
