@@ -34,6 +34,7 @@ kanban-plugin: list
 - [ ] IHW1 | 2
 - [ ] ➕ 2025-10-06 | IHW2 | 4
 - [ ] ➕ 2025-10-13 | IHW3 | 3
+- [ ] ➕ 2025-10-20 | Test 3 | 2.5
 
 
 ## Introduction in IT
@@ -43,6 +44,7 @@ kanban-plugin: list
 - [ ] Lection3 | 1
 - [ ] Lection4 | 1
 - [ ] Lection5 | 1
+- [ ] Lection6 | 1
 - [ ] Lab1 | 4
 - [ ] Lab2 | 4
 - [ ] Lab4-5 | N
@@ -89,6 +91,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,true,true,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,true,false,true,true,true,true],"full-list-lane-width":true}
 ```
 %%
