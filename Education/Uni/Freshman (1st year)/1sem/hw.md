@@ -10,8 +10,13 @@ kanban-plugin: list
 - [ ] Lection 2
 - [ ] hw1
 - [x] Lection 3 ✅ 2025-10-09
-- [ ] Lection 4
+- [x] Lection 4 ✅ 2025-10-21
 - [ ] hw2
+- [x] Lection 5 ✅ 2025-10-21
+- [ ] Lection 6
+- [ ] hw3
+- [ ] Lection 7
+- [ ] Lection 8
 
 
 ## Math
