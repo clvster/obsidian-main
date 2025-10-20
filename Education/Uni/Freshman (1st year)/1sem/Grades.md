@@ -62,6 +62,8 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-02 | Practice 8
 - [ ] ➕ 2025-10-13 | Practice 9
 - [ ] ➕ 2025-10-16 | Practice 10
+- [ ] ➕ 2025-10-20 | Practice 11
+- [ ] ➕ 2025-10-20 | CW | 3
 
 
 ## English
