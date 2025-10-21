@@ -35,6 +35,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-06 | IHW2 | 4
 - [ ] ➕ 2025-10-13 | IHW3 | 3
 - [ ] ➕ 2025-10-20 | Test 3 | 2.5
+- [ ] ➕ 2025-10-22 | IHW4 | N
 
 
 ## Introduction in IT
