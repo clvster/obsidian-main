@@ -36,7 +36,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-06 | IHW2 | 4
 - [ ] ➕ 2025-10-13 | IHW3 | 3
 - [ ] ➕ 2025-10-20 | Test 3 | 2.5
-- [ ] ➕ 2025-10-22 | IHW4 | N
+- [ ] ➕ 2025-10-22 | IHW4 | 2.1
 
 
 ## Introduction in IT
@@ -66,6 +66,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-16 | Practice 10
 - [ ] ➕ 2025-10-20 | Practice 11
 - [ ] ➕ 2025-10-20 | CW | 3
+- [ ] ➕ 2025-10-23 | Practice12
 
 
 ## English
