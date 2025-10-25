@@ -17,12 +17,13 @@
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
                     true,
                     true
                   ]

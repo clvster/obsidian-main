@@ -70,6 +70,11 @@ kanban-plugin: list
 - [x] ➕ 2025-10-18 |🔺| Lection6 ✅ 2025-10-19
 
 
+## Введ.в.Проект.Деят
+
+- [ ] ➕ 2025-10-25 | 🔼 | подг.к кр
+
+
 ## English
 
 - [x] 🔺 p7 ex 5;  p8 ex9 p 9 ex11 ✅ 2025-09-19
@@ -91,6 +96,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[false,false,false,false,false,false,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,true,true,true,true,true,true,true,true]}
 ```
 %%
