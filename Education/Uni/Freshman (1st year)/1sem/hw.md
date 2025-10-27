@@ -59,7 +59,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-24 | 🔽 | lab4
 
 
-## Introduction IT
+## Introduction to IT
 
 - [x] 🔺 | ➕ 2025-09-20 | Lection 2 ✅ 2025-09-20
 - [x] ➕ 2025-09-25 | 🔺 | спросить как сделать отчёт про лабу 2 ✅ 2025-09-27
@@ -71,9 +71,9 @@ kanban-plugin: list
 - [x] ➕ 2025-10-25 | 🔺 | Lection7 ✅ 2025-10-26
 
 
-## Введ.в.Проект.Деят
+## Introduction to PW
 
-- [ ] ➕ 2025-10-25 | 🔼 | подг.к кр
+- [x] ➕ 2025-10-25 | 🔼 | подг.к кр ✅ 2025-10-28
 
 
 ## English
@@ -97,6 +97,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,false,true,true,true,true,true,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,true,true,true,true,true,true,true,true]}
 ```
 %%

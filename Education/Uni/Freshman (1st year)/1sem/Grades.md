@@ -70,6 +70,11 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-23 | Practice12
 
 
+## Introduction to PW
+
+- [ ] ➕ 2025-10-28 | CW | N
+
+
 ## English
 
 - [ ] hw1.1
@@ -97,6 +102,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,false,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[true,true,true,true,true,true,false,true,true],"full-list-lane-width":true}
 ```
 %%
