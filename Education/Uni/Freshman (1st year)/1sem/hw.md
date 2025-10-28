@@ -38,8 +38,8 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-15 | 🏁 | 🔽 | Summary theme 5, 6
 - [x] ➕ 2025-10-15 | 🔼 | IHW 4 ✅ 2025-10-22
 - [x] ➕ 2025-10-15 | 🔼 | Test 3 ✅ 2025-10-20
-- [ ] ➕ 2025-10-23 | 🔽 | IHW 5
-- [ ] ➕ 2025-10-23 | 🔽 | Test 4
+- [ ] ➕ 2025-10-23 | 🔺 | IHW 5
+- [ ] ➕ 2025-10-23 | ⏫ | Test 4
 
 
 ## C++
@@ -47,7 +47,7 @@ kanban-plugin: list
 - [x] 🔼 lab1 ✅ 2025-09-23
 - [x] ➕ 2025-09-23 | 🔼 | 🏁 | lab2 - must be done report ✅ 2025-10-02
 - [x] ➕ 2025-10-05 | 🔽 | lab3 ✅ 2025-10-15
-- [ ] ➕ 2025-10-16 | 🔼 | lab4
+- [ ] ➕ 2025-10-16 | 🔺 | lab4
 
 
 ## Python
@@ -56,7 +56,7 @@ kanban-plugin: list
 - [x] ➕ 2025-09-23 | 🔺 | 🏁 | tests with auto exam ✅ 2025-10-10
 - [x] ➕ 2025-10-12 | ⏫ | 🏁 | lab2 ✅ 2025-10-23
 - [x] ➕ 2025-10-23 | 🔼 | lab3 ✅ 2025-10-24
-- [ ] ➕ 2025-10-24 | 🔽 | lab4
+- [ ] ➕ 2025-10-24 | ⏫ | lab4
 
 
 ## Introduction to IT
@@ -66,7 +66,7 @@ kanban-plugin: list
 - [x] ➕ 2025-09-27 | 🔺 | Lection 3 ✅ 2025-09-28
 - [x] ➕ 2025-09-30 | 🔺 | 🏁 | Lab4-5 ✅ 2025-10-06
 - [x] ➕ 2025-10-11 | 🔺 | Lection5 ✅ 2025-10-12
-- [ ] ➕ 2025-10-16 | 🔼 | lab3
+- [ ] ➕ 2025-10-16 | ⏫ | lab3
 - [x] ➕ 2025-10-18 |🔺| Lection6 ✅ 2025-10-19
 - [x] ➕ 2025-10-25 | 🔺 | Lection7 ✅ 2025-10-26
 
@@ -97,6 +97,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,true,true,true,true,true,true,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,true,false,false,false,false,true,true,true]}
 ```
 %%
