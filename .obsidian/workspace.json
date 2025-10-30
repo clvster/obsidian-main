@@ -13,11 +13,11 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/1sem/Grades.md",
+                "file": "Education/Uni/Freshman (1st year)/1sem/hw.md",
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
-                    false,
+                    true,
                     true,
                     true,
                     true,
@@ -30,7 +30,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Grades"
+              "title": "hw"
             }
           }
         ]
@@ -205,8 +205,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "64642efde08ba78f",
+  "active": "009668f7b4ca279c",
   "lastOpenFiles": [
+    "Education/Meetup. SRE. T-Bank.md",
     "Education/Uni/Freshman (1st year)/1sem/hw.md",
     "Education/Uni/Freshman (1st year)/1sem/Grades.md",
     "Education/Uni/Freshman (1st year)/1sem/Attestation.md",

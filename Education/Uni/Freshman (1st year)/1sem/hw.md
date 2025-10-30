@@ -47,7 +47,7 @@ kanban-plugin: list
 - [x] 🔼 lab1 ✅ 2025-09-23
 - [x] ➕ 2025-09-23 | 🔼 | 🏁 | lab2 - must be done report ✅ 2025-10-02
 - [x] ➕ 2025-10-05 | 🔽 | lab3 ✅ 2025-10-15
-- [ ] ➕ 2025-10-16 | 🔺 | lab4
+- [x] ➕ 2025-10-16 | 🔺 | lab4 ✅ 2025-10-30
 
 
 ## Python
@@ -69,6 +69,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-16 | ⏫ | lab3
 - [x] ➕ 2025-10-18 |🔺| Lection6 ✅ 2025-10-19
 - [x] ➕ 2025-10-25 | 🔺 | Lection7 ✅ 2025-10-26
+- [ ] ➕ 2025-10-30 | ⏫ | Lab6-7 | Отзыв
 
 
 ## Introduction to PW
@@ -97,6 +98,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,true,false,false,false,false,true,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,true,true,true,true,true,true,true,true]}
 ```
 %%
