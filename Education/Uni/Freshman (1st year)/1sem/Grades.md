@@ -50,6 +50,7 @@ kanban-plugin: list
 - [ ] Lection5 | 1
 - [ ] Lection6 | 1
 - [ ] Lection7 | 1
+- [ ] ➕ 2025-11-03 | Lection8 | N
 - [ ] Lab1 | 4
 - [ ] Lab2 | 4
 - [ ] Lab4-5 | N
@@ -104,6 +105,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,true,false,false,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[true,true,false,true,false,true,true,true,true],"full-list-lane-width":true}
 ```
 %%

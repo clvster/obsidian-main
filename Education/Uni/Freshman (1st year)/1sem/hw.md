@@ -70,7 +70,8 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-16 | ⏫ | lab3
 - [x] ➕ 2025-10-18 |🔺| Lection6 ✅ 2025-10-19
 - [x] ➕ 2025-10-25 | 🔺 | Lection7 ✅ 2025-10-26
-- [ ] ➕ 2025-10-30 | ⏫ | Lab6-7 | Отзыв
+- [ ] ➕ 2025-10-30 | 🔺 | Lab6-7 | Отзыв
+- [x] ➕ 2025-11-01 |🔺| Lection8 ✅ 2025-11-03
 
 
 ## Introduction to PW
@@ -99,6 +100,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,false,false,false,false,false,false,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,false,false,true,false,false,true,true,true]}
 ```
 %%
