@@ -38,8 +38,9 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-15 | 🏁 | 🔽 | Summary theme 5, 6
 - [x] ➕ 2025-10-15 | 🔼 | IHW 4 ✅ 2025-10-22
 - [x] ➕ 2025-10-15 | 🔼 | Test 3 ✅ 2025-10-20
-- [ ] ➕ 2025-10-23 | 🔺 | IHW 5
-- [ ] ➕ 2025-10-23 | ⏫ | Test 4
+- [x] ➕ 2025-10-23 | 🔺 | IHW 5 ✅ 2025-11-05
+- [ ] ➕ 2025-10-23 | 🔺 | Test 4
+- [ ] ➕ 2025-11-05 | 🔽 | Extra.Exercise theme №6
 
 
 ## C++
@@ -100,6 +101,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,false,false,true,false,false,true,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,false,false,true,false,false,false,true,true]}
 ```
 %%
