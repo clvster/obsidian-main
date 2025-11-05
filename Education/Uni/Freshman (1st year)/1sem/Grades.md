@@ -39,6 +39,8 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-13 | IHW3 | 3
 - [ ] ➕ 2025-10-20 | Test 3 | 2.5
 - [ ] ➕ 2025-10-22 | IHW4 | 2.1
+- [ ] ➕ 2025-11-05 | CW | 6
+- [ ] ➕ 2025-11-06 | Test 4 | 2.5
 
 
 ## Introduction in IT
@@ -54,6 +56,7 @@ kanban-plugin: list
 - [ ] Lab1 | 4
 - [ ] Lab2 | 4
 - [ ] Lab4-5 | N
+- [ ] ➕ 2025-11-06 | Lab6-7 | N
 
 
 ## Physical Education
@@ -71,6 +74,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-20 | Practice 11
 - [ ] ➕ 2025-10-20 | CW | 3
 - [ ] ➕ 2025-10-23 | Practice12
+- [ ] ➕ 2025-11-03 | Practice 13
 
 
 ## Introduction to PW
@@ -105,6 +109,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[true,true,false,true,false,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[true,true,false,false,false,false,true,true,true],"full-list-lane-width":true}
 ```
 %%
