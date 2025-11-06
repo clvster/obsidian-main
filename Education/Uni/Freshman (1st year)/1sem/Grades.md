@@ -17,7 +17,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-09-23 | lab1 | 6
 - [ ] ➕ 2025-10-04 | lab2 | 6
 - [ ] ➕ 2025-10-16 | lab3 | 6
-- [ ] ➕ 2025-10-31 | lab4 | N
+- [ ] ➕ 2025-10-31 | lab4 | 8
 
 
 ## Python
@@ -52,11 +52,12 @@ kanban-plugin: list
 - [ ] Lection5 | 1
 - [ ] Lection6 | 1
 - [ ] Lection7 | 1
-- [ ] ➕ 2025-11-03 | Lection8 | N
+- [ ] ➕ 2025-11-03 | Lection8 | 1
 - [ ] Lab1 | 4
 - [ ] Lab2 | 4
 - [ ] Lab4-5 | N
-- [ ] ➕ 2025-11-06 | Lab6-7 | N
+- [ ] ➕ 2025-11-06 | Lab6 | N
+- [ ] ➕ 2025-11-06 | Lab7 | 4
 
 
 ## Physical Education
@@ -75,6 +76,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-20 | CW | 3
 - [ ] ➕ 2025-10-23 | Practice12
 - [ ] ➕ 2025-11-03 | Practice 13
+- [ ] ➕ 2025-11-06 | Practice 14
 
 
 ## Introduction to PW
@@ -109,6 +111,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[true,true,false,false,false,false,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[true,true,true,true,true,true,true,true,true],"full-list-lane-width":true}
 ```
 %%
