@@ -49,7 +49,7 @@ kanban-plugin: list
 - [x] ➕ 2025-09-23 | 🔼 | 🏁 | lab2 - must be done report ✅ 2025-10-02
 - [x] ➕ 2025-10-05 | 🔽 | lab3 ✅ 2025-10-15
 - [x] ➕ 2025-10-16 | 🔺 | lab4 ✅ 2025-10-30
-- [ ] ➕ 2025-10-31 | 🔼 | lab5
+- [ ] ➕ 2025-10-31 | ⏫ | lab5
 
 
 ## Python
@@ -58,7 +58,7 @@ kanban-plugin: list
 - [x] ➕ 2025-09-23 | 🔺 | 🏁 | tests with auto exam ✅ 2025-10-10
 - [x] ➕ 2025-10-12 | ⏫ | 🏁 | lab2 ✅ 2025-10-23
 - [x] ➕ 2025-10-23 | 🔼 | lab3 ✅ 2025-10-24
-- [ ] ➕ 2025-10-24 | ⏫ | lab4
+- [ ] ➕ 2025-10-24 | 🔼 | lab4
 
 
 ## Introduction to IT
@@ -74,6 +74,7 @@ kanban-plugin: list
 - [x] ➕ 2025-10-30 | 🔺 | Lab6-7 | Отзыв ✅ 2025-11-06
 - [x] ➕ 2025-11-01 |🔺| Lection8 ✅ 2025-11-03
 - [ ] ➕ 2025-11-05 | 🏁 | Lab 7-8
+- [x] ➕ 2025-11-08 | Lection9 ✅ 2025-11-09
 
 
 ## Introduction to PW
@@ -102,6 +103,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,false,false,true,false,false,false,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,false,false,false,true,false,true,true,true]}
 ```
 %%

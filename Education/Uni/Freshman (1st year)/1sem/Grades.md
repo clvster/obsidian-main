@@ -8,7 +8,8 @@ kanban-plugin: list
 
 - [ ] IHW1 | 1
 - [ ] CW | 4
-- [ ] IHW2 | N
+- [ ] IHW2 | 2
+- [ ] IHW3 | 2
 - [ ] RT | 5
 
 
@@ -27,7 +28,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-06 | autotest3 | ?
 - [ ] ➕ 2025-10-06 | autotest4 | ?
 - [ ] ➕ 2025-10-10 | lab1 | 5
-- [ ] ➕ 2025-10-23 | lab2 | N
+- [ ] ➕ 2025-10-23 | lab2 | 10
 
 
 ## Math logic & theory of algo
@@ -43,7 +44,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-06 | Test 4 | 2.5
 
 
-## Introduction in IT
+## Introduction to IT
 
 - [ ] Lection1 | 0.5
 - [ ] Lection2 | 1
@@ -53,6 +54,7 @@ kanban-plugin: list
 - [ ] Lection6 | 1
 - [ ] Lection7 | 1
 - [ ] ➕ 2025-11-03 | Lection8 | 1
+- [ ] ➕ 2025-11-09 | Lection 9 | N
 - [ ] Lab1 | 4
 - [ ] Lab2 | 4
 - [ ] Lab4-5 | N
@@ -111,6 +113,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[true,true,true,true,true,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,true,true,true,true,true,true,true,true],"full-list-lane-width":true}
 ```
 %%
