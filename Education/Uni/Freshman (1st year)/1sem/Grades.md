@@ -7,10 +7,11 @@ kanban-plugin: list
 ## Math
 
 - [ ] IHW1 | 1
-- [ ] CW | 4
+- [ ] CW1 | 4
 - [ ] IHW2 | 2
 - [ ] IHW3 | 2
 - [ ] RT | 5
+- [ ] ➕ 2025-11-12 | CW2 | N
 
 
 ## C++
@@ -42,6 +43,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-22 | IHW4 | 2.1
 - [ ] ➕ 2025-11-05 | CW | 6
 - [ ] ➕ 2025-11-06 | Test 4 | 2.5
+- [ ] ➕ 2025-11-12 | ClassWork | +
 
 
 ## Introduction to IT
@@ -79,6 +81,8 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-23 | Practice12
 - [ ] ➕ 2025-11-03 | Practice 13
 - [ ] ➕ 2025-11-06 | Practice 14
+- [ ] ➕ 2025-11-10 | Practice 15
+- [ ] ➕ 2025-11-13 | Practice 16
 
 
 ## Introduction to PW
@@ -113,6 +117,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,true,false,true,false,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,true,true,true,true,true,true,true,true],"full-list-lane-width":true}
 ```
 %%
