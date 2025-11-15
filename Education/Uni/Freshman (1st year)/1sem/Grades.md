@@ -62,6 +62,7 @@ kanban-plugin: list
 - [ ] Lab4-5 | N
 - [ ] ➕ 2025-11-06 | Lab6 | N
 - [ ] ➕ 2025-11-06 | Lab7 | 4
+- [ ] ➕ 2025-11-16 | Lab8-9 | N
 
 
 ## Physical Education
@@ -117,6 +118,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,true,true,true,true,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,true,true,false,true,true,true,true],"full-list-lane-width":true}
 ```
 %%
