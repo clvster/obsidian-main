@@ -60,7 +60,7 @@ kanban-plugin: list
 - [x] ➕ 2025-09-23 | 🔺 | 🏁 | tests with auto exam ✅ 2025-10-10
 - [x] ➕ 2025-10-12 | ⏫ | 🏁 | lab2 ✅ 2025-10-23
 - [ ] ➕ 2025-10-23 | 🔼 | lab3
-- [ ] ➕ 2025-11-13 | ⏫ | autotests
+- [x] ➕ 2025-11-13 | ⏫ | autotests ✅ 2025-11-16
 
 
 ## Introduction to IT
