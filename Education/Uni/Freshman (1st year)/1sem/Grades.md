@@ -60,6 +60,7 @@ kanban-plugin: list
 - [ ] Lection7 | 1
 - [ ] ➕ 2025-11-03 | Lection8 | 1
 - [ ] ➕ 2025-11-09 | Lection 9 | N
+- [ ] ➕ 2025-11-16 | Lection10 | N
 - [ ] Lab1 | 4
 - [ ] Lab2 | 4
 - [ ] Lab4-5 | N

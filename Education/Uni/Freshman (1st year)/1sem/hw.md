@@ -77,6 +77,7 @@ kanban-plugin: list
 - [x] ➕ 2025-11-01 |🔺| Lection8 ✅ 2025-11-03
 - [x] ➕ 2025-11-05 | 🔺 | 🏁 | Lab 7-8 ✅ 2025-11-16
 - [x] ➕ 2025-11-08 | Lection9 ✅ 2025-11-09
+- [x] ➕ 2025-11-15| 🔺 | Lection10 ✅ 2025-11-16
 
 
 ## Introduction to PW
