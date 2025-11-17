@@ -8,10 +8,10 @@ kanban-plugin: list
 
 - [ ] IHW1 | 1
 - [ ] CW1 | 4
-- [ ] IHW2 | 2
+- [ ] IHW2 | 1.6
 - [ ] IHW3 | 2
 - [ ] RT | 5
-- [ ] ➕ 2025-11-12 | CW2 | N
+- [ ] ➕ 2025-11-12 | CW2 | 8.1
 
 
 ## C++
@@ -20,6 +20,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-04 | lab2 | 6
 - [ ] ➕ 2025-10-16 | lab3 | 6
 - [ ] ➕ 2025-10-31 | lab4 | 8
+- [ ] ➕ 2025-11-18 | lab5 | N
 
 
 ## Python
@@ -47,6 +48,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-05 | CW | 6
 - [ ] ➕ 2025-11-06 | Test 4 | 2.5
 - [ ] ➕ 2025-11-12 | ClassWork | +
+- [ ] ➕ 2025-11-18 | 🔼 | Extra.Exercise theme №6 | N
 
 
 ## Introduction to IT
@@ -67,6 +69,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-06 | Lab6 | N
 - [ ] ➕ 2025-11-06 | Lab7 | 4
 - [ ] ➕ 2025-11-16 | Lab8-9 | N
+- [ ] ➕ 2025-11-17 | Lab10-11 | N
 
 
 ## Physical Education
@@ -88,6 +91,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-06 | Practice 14
 - [ ] ➕ 2025-11-10 | Practice 15
 - [ ] ➕ 2025-11-13 | Practice 16
+- [ ] ➕ 2025-11-17 | Practice 17
 
 
 ## Introduction to PW
@@ -118,10 +122,14 @@ kanban-plugin: list
 - [ ] Test 4 | 0.5
 
 
+***
 
+## Archive
+
+- [ ] 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,true,false,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,false,true,true,true],"full-list-lane-width":true}
 ```
 %%
