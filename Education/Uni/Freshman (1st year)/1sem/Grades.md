@@ -96,7 +96,7 @@ kanban-plugin: list
 
 ## Introduction to PW
 
-- [ ] ➕ 2025-10-28 | CW | N
+- [ ] ➕ 2025-10-28 | CW | 3.7
 
 
 ## English
@@ -130,6 +130,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,false,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,false,false,true,true],"full-list-lane-width":true}
 ```
 %%
