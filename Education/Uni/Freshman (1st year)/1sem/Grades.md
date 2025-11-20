@@ -20,7 +20,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-04 | lab2 | 6
 - [ ] ➕ 2025-10-16 | lab3 | 6
 - [ ] ➕ 2025-10-31 | lab4 | 8
-- [ ] ➕ 2025-11-18 | lab5 | N
+- [ ] ➕ 2025-11-20 | lab5 | N
 
 
 ## Python
@@ -34,6 +34,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-16 | autotest 5 | ?
 - [ ] ➕ 2025-11-16 | autotest 6 | ?
 - [ ] ➕ 2025-11-16 | autotest 7 | ?
+- [ ] ➕ 2025-11-20 | lab3 | N
 
 
 ## Math logic & theory of algo
@@ -86,12 +87,13 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-16 | Practice 10
 - [ ] ➕ 2025-10-20 | Practice 11
 - [ ] ➕ 2025-10-20 | CW | 3
-- [ ] ➕ 2025-10-23 | Practice12
+- [ ] ➕ 2025-10-23 | Practice 12
 - [ ] ➕ 2025-11-03 | Practice 13
 - [ ] ➕ 2025-11-06 | Practice 14
 - [ ] ➕ 2025-11-10 | Practice 15
 - [ ] ➕ 2025-11-13 | Practice 16
 - [ ] ➕ 2025-11-17 | Practice 17
+- [ ] ➕ 2025-11-20 | Practice 18
 
 
 ## Introduction to PW
@@ -130,6 +132,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,false,false,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,false,true,true,true],"full-list-lane-width":true}
 ```
 %%
