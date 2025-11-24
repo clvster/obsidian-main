@@ -22,7 +22,7 @@
                     false,
                     false,
                     false,
-                    false,
+                    true,
                     true,
                     true,
                     true
@@ -205,7 +205,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f71a0fbe1dab347f",
+  "active": "64642efde08ba78f",
   "lastOpenFiles": [
     "Education/Uni/Freshman (1st year)/1sem/Grades.md",
     "Education/Uni/Freshman (1st year)/1sem/hw.md",

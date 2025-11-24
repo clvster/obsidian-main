@@ -72,7 +72,7 @@ kanban-plugin: list
 - [x] ➕ 2025-09-27 | 🔺 | Lection 3 ✅ 2025-09-28
 - [x] ➕ 2025-09-30 | 🔺 | 🏁 | Lab4-5 ✅ 2025-10-06
 - [x] ➕ 2025-10-11 | 🔺 | Lection5 ✅ 2025-10-12
-- [ ] ➕ 2025-10-16 | ⏫ | lab3
+- [x] ➕ 2025-10-16 | ⏫ | 🏁 | lab3 ✅ 2025-11-24
 - [x] ➕ 2025-10-18 |🔺| Lection6 ✅ 2025-10-19
 - [x] ➕ 2025-10-25 | 🔺 | Lection7 ✅ 2025-10-26
 - [x] ➕ 2025-10-30 | 🔺 | Lab6-7 | Отзыв ✅ 2025-11-06
@@ -109,6 +109,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,false,false,false,false,false,true,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,false,false,false,false,true,true,true,true]}
 ```
 %%
