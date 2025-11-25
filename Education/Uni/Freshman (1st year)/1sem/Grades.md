@@ -21,6 +21,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-16 | lab3 | 6
 - [ ] ➕ 2025-10-31 | lab4 | 8
 - [ ] ➕ 2025-11-20 | lab5 | 8
+- [ ] ➕ 2025-11-25 | Extra lab | N
 
 
 ## Python
@@ -101,6 +102,8 @@ kanban-plugin: list
 
 ## Introduction to PW
 
+- [ ] HW | Presentation | 5
+- [ ] IHW | 5
 - [ ] ➕ 2025-10-28 | CW | 3.7
 
 
@@ -135,6 +138,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,true,false,true,true],"full-list-lane-width":true}
 ```
 %%
