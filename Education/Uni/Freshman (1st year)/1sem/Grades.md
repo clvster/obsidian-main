@@ -98,6 +98,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-17 | Practice 17
 - [ ] ➕ 2025-11-20 | Practice 18
 - [ ] ➕ 2025-11-24 | Practice 19
+- [ ] ➕ 2025-11-27 | Practice 20
 
 
 ## Introduction to PW
@@ -138,6 +139,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,true,false,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,false,true,true,true],"full-list-lane-width":true}
 ```
 %%
