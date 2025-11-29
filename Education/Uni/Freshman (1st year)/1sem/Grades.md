@@ -21,7 +21,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-16 | lab3 | 6
 - [ ] ➕ 2025-10-31 | lab4 | 8
 - [ ] ➕ 2025-11-20 | lab5 | 8
-- [ ] ➕ 2025-11-25 | Extra lab | N
+- [ ] ➕ 2025-11-25 | Extra lab | 4
 
 
 ## Python
@@ -99,6 +99,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-20 | Practice 18
 - [ ] ➕ 2025-11-24 | Practice 19
 - [ ] ➕ 2025-11-27 | Practice 20
+- [ ] ➕ 2025-11-27 | CW | 1.5
 
 
 ## Introduction to PW
