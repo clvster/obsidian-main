@@ -23,6 +23,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-20 | lab5 | 8
 - [ ] ➕ 2025-11-25 | Extra lab | 4
 - [ ] ➕ 2025-12-01 | Test | 9
+- [ ] ➕ 2025-12-04 | lab6 | N
 
 
 ## Python
@@ -52,6 +53,8 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-06 | Test 4 | 2.5
 - [ ] ➕ 2025-11-12 | ClassWork | +
 - [ ] ➕ 2025-11-18 | Extra.Exercise theme №6 | N
+- [ ] ➕ 2025-12-03 | ClassWork | +
+- [ ] ➕ 2025-12-04 | CW | 8
 
 
 ## Introduction to IT
@@ -102,6 +105,8 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-24 | Practice 19
 - [ ] ➕ 2025-11-27 | Practice 20
 - [ ] ➕ 2025-11-27 | CW | 1.5
+- [ ] ➕ 2025-12-04 | Practice 21
+- [ ] ➕ 2025-12-04 | CW | 1
 
 
 ## Introduction to PW
