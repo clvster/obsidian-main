@@ -43,7 +43,7 @@ kanban-plugin: list
 - [x] ➕ 2025-10-23 | 🔺 | IHW 5 ✅ 2025-11-05
 - [x] ➕ 2025-10-23 | 🔺 | Test 4 ✅ 2025-11-06
 - [x] ➕ 2025-11-05 | 🔼 | Extra.Exercise theme №6 ✅ 2025-11-18
-- [ ] ➕ 2025-11-27 | 🔺 | Test 5
+- [x] ➕ 2025-11-27 | 🔺 | Test 5 ✅ 2025-12-07
 - [x] ➕ 2025-11-27 | 🔽 | Prep to CW ✅ 2025-12-04
 - [ ] ➕ 2025-11-27 | 🔽 | Prep flashcards for exam
 
@@ -88,7 +88,7 @@ kanban-plugin: list
 - [x] ➕ 2025-11-15| 🔺 | Lection10 ✅ 2025-11-16
 - [x] ➕ 2025-11-22 | 🔺 | Lection11 ✅ 2025-11-23
 - [x] ➕ 2025-11-29 | 🔺 | Lection12 ✅ 2025-11-30
-- [ ] ➕ 2025-12-05 | 🔺 | Lab12
+- [x] ➕ 2025-12-05 | 🔺 | Lab12 ✅ 2025-12-07
 
 
 ## Introduction to PW
@@ -117,6 +117,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,false,false,false,false,false,true,true,true]}
+{"kanban-plugin":"list","show-checkboxes":true,"full-list-lane-width":true,"list-collapse":[true,false,false,false,false,true,true,true,true]}
 ```
 %%

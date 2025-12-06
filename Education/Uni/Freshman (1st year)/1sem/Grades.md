@@ -55,6 +55,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-18 | Extra.Exercise theme №6 | N
 - [ ] ➕ 2025-12-03 | ClassWork | +
 - [ ] ➕ 2025-12-04 | CW | 8
+- [ ] ➕ 2025-12-07 | Test 5 | 4
 
 
 ## Introduction to IT
@@ -79,6 +80,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-16 | Lab8-9 | 8
 - [ ] ➕ 2025-11-17 | Lab10-11 | 8
 - [ ] ➕ 2025-11-24 | Lab3 | N
+- [ ] ➕ 2025-12-07 | Lab12 | N
 
 
 ## Physical Education
