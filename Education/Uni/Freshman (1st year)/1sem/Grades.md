@@ -75,7 +75,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-30 | Lection12 | N
 - [ ] Lab1 | 4
 - [ ] Lab2 | 4
-- [ ] Lab4-5 | N
+- [ ] Lab4-5 | 8
 - [ ] ➕ 2025-11-06 | Lab6 | N
 - [ ] ➕ 2025-11-06 | Lab7 | 4
 - [ ] ➕ 2025-11-16 | Lab8-9 | 8
@@ -110,6 +110,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-27 | CW | 1.5
 - [ ] ➕ 2025-12-04 | Practice 21
 - [ ] ➕ 2025-12-04 | CW | 1
+- [ ] ➕ 2025-12-08 | Practice 22
 
 
 ## Introduction to PW
