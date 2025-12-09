@@ -25,6 +25,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-25 | Extra lab | 4
 - [ ] ➕ 2025-12-01 | Test | 9
 - [ ] ➕ 2025-12-04 | lab6 | N
+- [ ] ➕ 2025-12-09 | lab7 | N
 
 
 ## Python
