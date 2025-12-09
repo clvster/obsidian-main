@@ -59,6 +59,7 @@ kanban-plugin: list
 - [x] ➕ 2025-11-25 | 🔺 до 5.12 | Test ✅ 2025-12-01
 - [ ] ➕ 2025-11-27 | 🔽 | Prep flashcards for exam
 - [x] ➕ 2025-12-04 | ⏫ | lab7 ✅ 2025-12-09
+- [ ] ➕ 2025-12-09 | 🔼 | lab8
 
 
 ## Python
