@@ -13,6 +13,7 @@ kanban-plugin: list
 - [ ] RT | 5
 - [ ] ➕ 2025-11-12 | CW2 | 8.1
 - [ ] ➕ 2025-12-08 | IHW4 | N
+- [ ] ➕ 2025-12-10 | CW3| N
 
 
 ## C++
@@ -82,7 +83,8 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-16 | Lab8-9 | 8
 - [ ] ➕ 2025-11-17 | Lab10-11 | 8
 - [ ] ➕ 2025-11-24 | Lab3 | N
-- [ ] ➕ 2025-12-07 | Lab12 | N
+- [ ] ➕ 2025-12-07 | Lab12 | 4
+- [ ] ➕ 2025-12-11 | Hackathon | 34
 
 
 ## Physical Education
@@ -112,6 +114,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-12-04 | Practice 21
 - [ ] ➕ 2025-12-04 | CW | 1
 - [ ] ➕ 2025-12-08 | Practice 22
+- [ ] ➕ 2025-12-11 | Practice 23
 
 
 ## Introduction to PW
