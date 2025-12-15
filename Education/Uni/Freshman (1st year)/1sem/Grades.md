@@ -115,6 +115,8 @@ kanban-plugin: list
 - [ ] ➕ 2025-12-04 | CW | 1
 - [ ] ➕ 2025-12-08 | Practice 22
 - [ ] ➕ 2025-12-11 | Practice 23
+- [ ] ➕ 2025-12-15 | Practice 24
+- [ ] MedExam | Practice 25
 
 
 ## Introduction to PW
@@ -155,6 +157,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,false,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,true,true,true,true],"full-list-lane-width":true}
 ```
 %%

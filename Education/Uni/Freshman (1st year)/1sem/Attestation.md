@@ -14,7 +14,7 @@ kanban-plugin: board
 - [ ] python | credit | N
 - [ ] Introduction in IT | credit | N
 - [ ] Intro in Projects | credit | N
-- [ ] Phys. Education | credit | N
+- [ ] Phys. Education | credit | ✅
 
 
 
