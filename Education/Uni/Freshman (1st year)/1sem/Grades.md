@@ -14,6 +14,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-12 | CW2 | 8.1
 - [ ] ➕ 2025-12-08 | IHW4 | N
 - [ ] ➕ 2025-12-10 | CW3 | N
+- [ ] ➕ 2025-12-16 | RT | 1.**
 
 
 ## C++
@@ -27,6 +28,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-12-01 | Test | 9
 - [ ] ➕ 2025-12-04 | lab6 | N
 - [ ] ➕ 2025-12-09 | lab7 | N
+- [ ] ➕ 2025-12-16 | lab8 | N
 
 
 ## Python
@@ -157,6 +159,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,false,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,true,false,false,true,true,false,true,true],"full-list-lane-width":true}
 ```
 %%
