@@ -12,9 +12,10 @@ kanban-plugin: list
 - [ ] IHW3 | 2
 - [ ] RT | 5
 - [ ] ➕ 2025-11-12 | CW2 | 8.1
-- [ ] ➕ 2025-12-08 | IHW4 | N
-- [ ] ➕ 2025-12-10 | CW3 | N
+- [ ] ➕ 2025-12-08 | IHW4 | 1.3
+- [ ] ➕ 2025-12-10 | CW3 | 6.2
 - [ ] ➕ 2025-12-16 | RT | 1.**
+- [ ] IHW5 | 2
 
 
 ## C++
@@ -26,9 +27,9 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-20 | lab5 | 8
 - [ ] ➕ 2025-11-25 | Extra lab | 4
 - [ ] ➕ 2025-12-01 | Test | 9
-- [ ] ➕ 2025-12-04 | lab6 | N
-- [ ] ➕ 2025-12-09 | lab7 | N
-- [ ] ➕ 2025-12-16 | lab8 | N
+- [ ] ➕ 2025-12-04 | lab6 | 10
+- [ ] ➕ 2025-12-09 | lab7 | 8
+- [ ] ➕ 2025-12-16 | lab8 | 8
 
 
 ## Python
@@ -56,11 +57,15 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-22 | IHW4 | 2.1
 - [ ] ➕ 2025-11-05 | CW | 6
 - [ ] ➕ 2025-11-06 | Test 4 | 2.5
-- [ ] ➕ 2025-11-12 | ClassWork | +
-- [ ] ➕ 2025-11-18 | Extra.Exercise theme №6 | N
-- [ ] ➕ 2025-12-03 | ClassWork | +
+- [ ] ➕ 2025-11-12 | ClassWork | 1
+- [ ] ➕ 2025-11-18 | Extra.Exercise theme №6 | 2.5
+- [ ] ➕ 2025-12-03 | ClassWork | 1
 - [ ] ➕ 2025-12-04 | CW | 8
 - [ ] ➕ 2025-12-07 | Test 5 | 4
+- [ ] ClassWork | 1
+- [ ] Lections | 1.5
+- [ ] Thing that all solves | 4
+- [ ] CW | 1
 
 
 ## Introduction to IT
@@ -159,6 +164,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,true,false,false,true,true,false,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,true,true,false,true,true],"full-list-lane-width":true}
 ```
 %%
