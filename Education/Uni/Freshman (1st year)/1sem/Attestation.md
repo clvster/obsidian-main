@@ -11,7 +11,7 @@ kanban-plugin: board
 - [ ] Math logic | exam | N
 - [ ] History | credit | ✅
 - [ ] English | credit | ✅
-- [ ] Python | credit | N
+- [ ] Python | credit | ✅
 - [ ] Intro to IT | credit | ✅
 - [ ] Intro to PW | credit | N
 - [ ] Phys. Education | credit | ✅
