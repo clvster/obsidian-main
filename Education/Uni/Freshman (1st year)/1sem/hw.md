@@ -31,8 +31,8 @@ kanban-plugin: list
 - [ ] ➕ 2025-11-13 | 🔼 | 🏁 | Lections
 - [x] ➕ 2025-11-24 | ⏫ | 🏁 | IHW 3.09 - 3.30 ✅ 2025-12-08
 - [ ] ➕ 2025-12-13 | ⏫ | 🏁 | IHW 4.18 - 4.28
-- [ ] ➕ 2025-12-17 | 🔼 | Prepare to CW4
-- [ ] ➕ 2025-12-17 | ⏫ | Prepare to WelcomeTest To Exam
+- [ ] ➕ 2025-12-17 | 🔺 | Prepare to CW4
+- [ ] ➕ 2025-12-17 |🔺| 🏁 | Prepare to WelcomeTest To Exam
 
 
 ## Math logic & theory of algo
@@ -48,7 +48,7 @@ kanban-plugin: list
 - [x] ➕ 2025-11-05 | 🔼 | Extra.Exercise theme №6 ✅ 2025-11-18
 - [x] ➕ 2025-11-27 | 🔺 | Test 5 ✅ 2025-12-07
 - [x] ➕ 2025-11-27 | 🔽 | Prep to CW ✅ 2025-12-04
-- [ ] ➕ 2025-11-27 | 🔽 | Prep flashcards for exam
+- [ ] ➕ 2025-11-27 | 🔼 | Prep flashcards for exam
 
 
 ## C++
@@ -60,7 +60,7 @@ kanban-plugin: list
 - [x] ➕ 2025-10-31 | 🔺 | lab5 ✅ 2025-11-14
 - [x] ➕ 2025-11-14 | ⏫ | 🏁 | lab6 ✅ 2025-12-02
 - [x] ➕ 2025-11-25 | 🔺 до 5.12 | Test ✅ 2025-12-01
-- [ ] ➕ 2025-11-27 | 🔽 | Prep flashcards for exam
+- [ ] ➕ 2025-11-27 | 🔼 | Prep flashcards for exam
 - [x] ➕ 2025-12-04 | ⏫ | lab7 ✅ 2025-12-09
 - [x] ➕ 2025-12-09 | 🔼 | lab8 ✅ 2025-12-13
 
