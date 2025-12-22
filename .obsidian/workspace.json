@@ -13,16 +13,24 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
+                "file": "Education/Uni/Freshman (1st year)/1sem/hw.md",
                 "kanbanViewState": {
-                  "kanban-plugin": "board",
+                  "kanban-plugin": "list",
                   "list-collapse": [
-                    false
+                    true,
+                    false,
+                    false,
+                    false,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "Attestation"
+              "title": "hw"
             }
           }
         ]
@@ -199,9 +207,9 @@
   },
   "active": "64642efde08ba78f",
   "lastOpenFiles": [
+    "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
     "Education/Uni/Freshman (1st year)/1sem/Grades.md",
     "Education/Uni/Freshman (1st year)/1sem/hw.md",
-    "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
     "Education/Courses/2025/Основы Python. Яндекс.md",
     "Education/Courses/2025/Тренировки. Забег по алгоритмам.md",
     "Education/Meetup. SRE. T-Bank.md",

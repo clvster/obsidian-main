@@ -30,9 +30,9 @@ kanban-plugin: list
 - [x] ➕ 2025-10-23 | 🔼 | 🏁 | ihw 2.38 - 2.42 ✅ 2025-11-12
 - [ ] ➕ 2025-11-13 | 🔼 | 🏁 | Lections
 - [x] ➕ 2025-11-24 | ⏫ | 🏁 | IHW 3.09 - 3.30 ✅ 2025-12-08
-- [ ] ➕ 2025-12-13 | ⏫ | 🏁 | IHW 4.18 - 4.28
+- [ ] ➕ 2025-12-13 | ⏫ | 🏁 | IHW 4.25 - 4.28
 - [ ] ➕ 2025-12-17 | 🔺 | Prepare to CW4
-- [ ] ➕ 2025-12-17 |🔺| 🏁 | Prepare to WelcomeTest To Exam
+- [ ] ➕ 2025-12-17 |🔺| 🏁 | WelcomeTest to Exam
 
 
 ## Math logic & theory of algo
