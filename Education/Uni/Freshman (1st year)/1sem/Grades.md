@@ -16,6 +16,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-12-10 | CW3 | 6.2
 - [ ] ➕ 2025-12-16 | RT | 1.**
 - [ ] IHW5 | 2
+- [ ] IHW6 | N
 
 
 ## C++
@@ -132,6 +133,7 @@ kanban-plugin: list
 - [ ] HW | Presentation | 5
 - [ ] IHW | 5
 - [ ] ➕ 2025-10-28 | CW | 3.7
+- [ ] ➕ 2025-12-23 | CW | 29
 
 
 ## English
@@ -165,6 +167,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,true,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,false,false,false,true,true,false,true,true],"full-list-lane-width":true}
 ```
 %%
