@@ -8,12 +8,12 @@ kanban-plugin: board
 
 - [ ] C++ | exam | N
 - [ ] Math | exam | N
-- [ ] Math logic | exam | N
+- [ ] Math logic | exam | 93 - grade 5
 - [ ] History | credit | ✅
 - [ ] English | credit | ✅
 - [ ] Python | credit | ✅
 - [ ] Intro to IT | credit | ✅
-- [ ] Intro to PW | credit | N
+- [ ] Intro to PW | credit | ✅
 - [ ] Phys. Education | credit | ✅
 
 

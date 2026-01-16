@@ -69,6 +69,7 @@ kanban-plugin: list
 - [ ] Lections | 1.5
 - [ ] Thing that all solves | 4
 - [ ] CW | 1
+- [ ] ➕ 2026-01-12 | Exam | 38
 
 
 ## Introduction to IT
@@ -168,6 +169,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[false,true,true,true,true,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[true,true,true,false,true,true,true,true,true],"full-list-lane-width":true}
 ```
 %%
