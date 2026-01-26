@@ -13,16 +13,24 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
+                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
                 "kanbanViewState": {
-                  "kanban-plugin": "board",
+                  "kanban-plugin": "list",
                   "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "Attestation"
+              "title": "hw"
             }
           }
         ]
@@ -199,9 +207,15 @@
   },
   "active": "64642efde08ba78f",
   "lastOpenFiles": [
+    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
+    "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
     "Education/Uni/Freshman (1st year)/1sem/Grades.md",
-    "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
     "Education/Uni/Freshman (1st year)/1sem/hw.md",
+    "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects",
+    "Education/Uni/Freshman (1st year)/2sem/Untitled.md",
+    "Education/Uni/Freshman (1st year)/2sem",
     "Education/Courses/2025/Основы Python. Яндекс.md",
     "Education/Courses/2025/Тренировки. Забег по алгоритмам.md",
     "Education/Meetup. SRE. T-Bank.md",
@@ -228,17 +242,11 @@
     "Education/Uni/Freshman (1st year)/1sem/Subjects/History/Лекция 1. История и историческая наука.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/History",
     "Education/Uni/Freshman (1st year)/1sem/Subjects",
-    "Life/Tasks.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Untitled.pdf",
-    "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/~$кция 2..md",
-    "Life/gym/План 1.md",
     "Education/Uni/Freshman (1st year)/1sem",
-    "Daily/2025-09-30.md",
     "_resources/Images/Pasted image 20250927111713.png",
     "_resources/Images/Pasted image 20250927105323.png",
     "_resources/Images/Pasted image 20250927104907.png",
-    "_resources/Images/Pasted image 20250927104312.png",
-    "_resources/Images",
-    "Education/Uni/Freshman (1st year)/Subjects/History/Drawing 2025-09-25 10.34.04.excalidraw.md"
+    "_resources/Images/Pasted image 20250927104312.png"
   ]
 }

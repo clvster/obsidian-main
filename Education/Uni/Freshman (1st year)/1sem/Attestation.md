@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## Disciplines
 
-- [ ] C++ | exam | N
-- [ ] Math | exam | N
+- [ ] C++ | exam | exam 100 - 5
+- [ ] Math | exam | exam 62 - 3
 - [ ] Math logic | exam | 93 - grade 5
 - [ ] History | credit | ✅
 - [ ] English | credit | ✅
