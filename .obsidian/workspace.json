@@ -13,24 +13,16 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
+                "file": "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
                 "kanbanViewState": {
-                  "kanban-plugin": "list",
+                  "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "hw"
+              "title": "Attestation"
             }
           }
         ]
