@@ -14,6 +14,7 @@ kanban-plugin: list
 
 ## English
 
+- [ ] ➕ 2026-02-09 | ⏫ | 📅 2026-02-12 | tg
 
 
 ## Math
@@ -30,6 +31,7 @@ kanban-plugin: list
 
 ## Disc. Math
 
+- [ ] ➕ 2026-02-09 | 🔽 | presentation in email
 
 
 ## Phys. Educ

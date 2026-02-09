@@ -34,6 +34,7 @@ kanban-plugin: list
 
 ## Phys. Educ
 
+- [ ] ➕ 2026-02-09 | Practice 1
 
 
 ## Project Work
