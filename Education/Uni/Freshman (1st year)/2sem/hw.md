@@ -31,7 +31,7 @@ kanban-plugin: list
 
 ## Disc. Math
 
-- [ ] ➕ 2026-02-09 | 🔽 | presentation in email
+- [ ] ➕ 2026-02-09 | 🔽 | поиск эйлерова цикла доклад
 
 
 ## Phys. Educ
