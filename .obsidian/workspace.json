@@ -4,36 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "03b62c84f1af1abd",
+        "id": "c552e0fb220ee34e",
         "type": "tabs",
         "children": [
           {
-            "id": "64642efde08ba78f",
+            "id": "8706085159607d98",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "hw"
+              "icon": "lucide-file",
+              "title": "Practice 1"
+            }
+          },
+          {
+            "id": "b0bab7ffc111b461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 18. Великая российская революция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 18. Великая российская революция"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,21 +137,6 @@
             }
           },
           {
-            "id": "a6d7647131a6cdaf",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of hw"
-            }
-          },
-          {
             "id": "b227bcc6d080737d",
             "type": "leaf",
             "state": {
@@ -156,6 +144,21 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
+            }
+          },
+          {
+            "id": "a6d7647131a6cdaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 18. Великая российская революция.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lecture 18. Великая российская революция"
             }
           },
           {
@@ -205,14 +208,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "64642efde08ba78f",
+  "active": "009668f7b4ca279c",
   "lastOpenFiles": [
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics/Physics. Lecture 1.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 1.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 18. Великая российская революция.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 1.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Untitled.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/History",
+    "Education/Uni/Freshman (1st year)/2sem/hw.md",
     "_resources/Images/unnamed.png",
     "_resources/Images/071d1f03d0b087a2663efee5fa26750d3dc75553.jpeg",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS.md",
-    "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8",
     "Education/Uni/Freshman (1st year)/2sem/Grades.md",
     "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
     "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
@@ -242,10 +249,7 @@
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/History/Лекция 5. Культурное развитие русских земель и княжеств.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/History/Лекция 4. Русские земли и княжества в X - середине XV в..md",
-    "Education/Uni/Freshman (1st year)/1sem/Subjects/History/Лекция 2. Древнерусское гос-во и его культурно-цивилизационные хар-ки.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/History",
-    "Education/Uni/Freshman (1st year)/1sem/Subjects",
-    "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInIT/Untitled.pdf",
     "_resources/Images/Pasted image 20250927111713.png",
     "_resources/Images/Pasted image 20250927105323.png",
     "_resources/Images/Pasted image 20250927104907.png",
