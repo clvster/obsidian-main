@@ -25,14 +25,26 @@
             "id": "b0bab7ffc111b461",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 18. Великая российская революция.md",
-                "mode": "source",
-                "source": false
+                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Lecture 18. Великая российская революция"
+              "icon": "lucide-trello",
+              "title": "hw"
             }
           }
         ],
@@ -152,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 18. Великая российская революция.md",
+                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 18. Великая российская революция"
+              "title": "Outline of hw"
             }
           },
           {
@@ -208,10 +220,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "009668f7b4ca279c",
+  "active": "b0bab7ffc111b461",
   "lastOpenFiles": [
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 1.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 18. Великая российская революция.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 1.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 1.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Untitled.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS",
