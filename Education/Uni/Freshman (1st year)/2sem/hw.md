@@ -10,6 +10,7 @@ kanban-plugin: list
 
 ## FoRS
 
+- [ ] ➕ 2026-02-11 | 📅 2026-03-11 | 🔽 | Диагностика уровня soft skills в lms
 
 
 ## English
