@@ -17,6 +17,7 @@ kanban-plugin: list
 ## English
 
 - [ ] ➕ 2026-02-11 | hw 1.1 | N
+- [ ] ➕ 2026-02-16 | hw 1.2 | N
 
 
 ## Math
@@ -39,6 +40,7 @@ kanban-plugin: list
 
 - [ ] ➕ 2026-02-09 | Practice 1
 - [ ] ➕ 2026-02-12 | Practice 2
+- [ ] ➕ 2026-02-16 | Practice 3
 
 
 ## Project Work

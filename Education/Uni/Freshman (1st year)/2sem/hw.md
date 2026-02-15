@@ -6,6 +6,7 @@ kanban-plugin: list
 
 ## History
 
+- [ ] ➕ 2026-02-14 | hw in VK
 
 
 ## FoRS
@@ -16,12 +17,12 @@ kanban-plugin: list
 ## English
 
 - [x] ➕ 2026-02-09 | ⏫ | 📅 2026-02-12 | hw 1.1 ✅ 2026-02-12
-- [ ] ➕ 2026-02-12 | 📅 2026-02-16 | 🔺 | hw 1.2
+- [x] ➕ 2026-02-12 | 📅 2026-02-16 | 🔺 | hw 1.2 ✅ 2026-02-15
 
 
 ## Math
 
-- [ ] ➕ 2026-02-10 | 📅 2026-02-17 | 🔺 | интегралы в фото
+- [x] ➕ 2026-02-10 | 📅 2026-02-17 | 🔺 | интегралы в фото ✅ 2026-02-16
 
 
 ## Physics
@@ -31,12 +32,12 @@ kanban-plugin: list
 
 ## Java
 
-- [ ] ➕ 2026-02-12 | ⏳ 2026-03-01 | ⏬ | lab1
+- [ ] ➕ 2026-02-12 | ⏳ 2026-03-01 | ⏫ | lab1
 
 
 ## Disc. Math
 
-- [ ] ➕ 2026-02-09 | 🔽 | поиск эйлерова цикла доклад
+- [ ] ➕ 2026-02-09 | 🔼 | поиск эйлерова цикла доклад
 
 
 ## Phys. Educ
@@ -47,10 +48,16 @@ kanban-plugin: list
 
 
 
+## AnSD
+
+- [ ] 🔺 | Sem.Work
+- [ ] 🔺 | hw 1.1 - 1.4
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false,false,false],"show-checkboxes":true,"full-list-lane-width":true}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false,false,false,false],"show-checkboxes":true,"full-list-lane-width":true}
 ```
 %%
