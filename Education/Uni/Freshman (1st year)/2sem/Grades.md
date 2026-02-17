@@ -18,6 +18,7 @@ kanban-plugin: list
 
 - [ ] ➕ 2026-02-11 | hw 1.1 | N
 - [ ] ➕ 2026-02-16 | hw 1.2 | N
+- [ ] ➕ 2026-02-18 | hw 1.3 | N
 
 
 ## Math
@@ -34,6 +35,7 @@ kanban-plugin: list
 
 ## Disc. Math
 
+- [ ] ➕ 2026-02-16 | Independent Work (in classroom) | N
 
 
 ## Phys. Educ
