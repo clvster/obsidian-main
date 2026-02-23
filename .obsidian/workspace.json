@@ -25,7 +25,6 @@
                     false,
                     false,
                     false,
-                    false,
                     false
                   ]
                 }
@@ -206,15 +205,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "009668f7b4ca279c",
+  "active": "b0bab7ffc111b461",
   "lastOpenFiles": [
+    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
+    "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
+    "Daily/2026-02-21.md",
+    "Daily/2026-02-22.md",
     "Daily/2026-02-20.md",
+    "Education/Courses/2026/AnSD(T-Bank)/Lection 2.md",
+    "Education/Courses/2026/AnSD(T-Bank)/Seminar 1.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
+    "_resources/Images/20260220_130611.jpg",
+    "_resources/Images/20260220_130204.jpg",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 2. Кинематика.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1..md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 1.md",
     "Daily/2026-02-19.md",
     "Daily/2026-02-18.md",
-    "Education/Uni/Freshman (1st year)/2sem/hw.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 1.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 2. Кинематика.md",
-    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
     "_resources/Images/Pasted image 20260218125315.png",
     "_resources/Images/Pasted image 20260218125224.png",
     "_resources/Images/20260218_111541.jpg",
@@ -222,11 +230,8 @@
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 2. Федеральные округа.md",
     "Daily/2026-02-17.md",
     "Daily/2026-02-16.md",
-    "Daily/2026-02-22.md",
-    "Education/Courses/2026/AnSD(T-Bank)/Seminar 1.md",
     "Education/Courses/2026/AnSD(T-Bank)",
     "Education/Courses/2026",
-    "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 18. Великая российская революция.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Untitled.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS",
@@ -242,9 +247,6 @@
     "Education/Uni/Freshman (1st year)/2sem",
     "Education/Courses/2025/Основы Python. Яндекс.md",
     "Education/Courses/2025/Тренировки. Забег по алгоритмам.md",
-    "Education/Meetup. SRE. T-Bank.md",
-    "Education/Courses/2025/Курсы.md",
-    "Education/Courses/2025/Golang. Stepik.md",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInPr/Untitled.canvas",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInPr",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/Untitled.canvas",
@@ -252,7 +254,6 @@
     "Education/Uni/Freshman (1st year)/1sem/Subjects/Math",
     "_resources/Images/Pasted image 20250927111713.png",
     "_resources/Images/Pasted image 20250927105323.png",
-    "_resources/Images/Pasted image 20250927104907.png",
-    "_resources/Images/Pasted image 20250927104312.png"
+    "_resources/Images/Pasted image 20250927104907.png"
   ]
 }

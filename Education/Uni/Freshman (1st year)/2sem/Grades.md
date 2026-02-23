@@ -12,6 +12,8 @@ kanban-plugin: list
 ## FoRS
 
 - [ ] ➕ 2026-02-13 | ClassWork (Lection 1) | 1
+- [ ] ➕ 2026-02-20 | ClassWork (Lection 2) | 1
+- [ ] ➕ 2026-02-11 | PracticeWork | 1
 
 
 ## English
@@ -31,6 +33,7 @@ kanban-plugin: list
 
 ## Java
 
+- [ ] ➕ 2026-02-21 | lab 1 | N
 
 
 ## Disc. Math
@@ -43,6 +46,7 @@ kanban-plugin: list
 - [ ] ➕ 2026-02-09 | Practice 1
 - [ ] ➕ 2026-02-12 | Practice 2
 - [ ] ➕ 2026-02-16 | Practice 3
+- [ ] ➕ 2026-02-19 | Practice 4
 
 
 ## Project Work
