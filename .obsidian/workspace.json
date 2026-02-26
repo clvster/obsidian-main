@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c552e0fb220ee34e",
+        "id": "1247c508d301d44a",
         "type": "tabs",
         "children": [
           {
-            "id": "b0bab7ffc111b461",
+            "id": "7256af40a71fed3a",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
+                "file": "Education/Uni/Freshman (1st year)/2sem/Grades.md",
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
@@ -30,7 +30,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "hw"
+              "title": "Grades"
             }
           }
         ]
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
+                "file": "Education/Uni/Freshman (1st year)/2sem/Grades.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hw"
+              "title": "Outline of Grades"
             }
           },
           {
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,55 +205,54 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "009668f7b4ca279c",
+  "active": "b14c4718c4b71cd1",
   "lastOpenFiles": [
-    "Daily/2026-02-26.md",
-    "Daily/2026-02-25.md",
     "Education/Uni/Freshman (1st year)/2sem/hw.md",
     "Education/Uni/Freshman (1st year)/2sem/Grades.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 1.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 2. Кинематика.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 3. Кинематика.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
+    "_resources/Images/20260225_120059.jpg",
+    "_resources/Images/20260225_115417.jpg",
+    "_resources/Images/20260225_114835.jpg",
+    "Daily/2026-02-25.md",
+    "_resources/Images/20260225_111657.jpg",
+    "_resources/Images/20260225_111035.jpg",
+    "Education/Courses/2026/AnSD(T-Bank)/Lection 2.md",
+    "Education/Courses/2026/AnSD(T-Bank)/Seminar 1.md",
+    "Education/Courses/2026/Untitled.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 3. Народы России. Культура, традиции и религия.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 2. Федеральные округа.md",
+    "Daily/2026-02-26.md",
     "Daily/2026-02-24.md",
     "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
     "Daily/2026-02-21.md",
     "Daily/2026-02-22.md",
     "Daily/2026-02-20.md",
-    "Education/Courses/2026/AnSD(T-Bank)/Lection 2.md",
-    "Education/Courses/2026/AnSD(T-Bank)/Seminar 1.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
     "_resources/Images/20260220_130611.jpg",
     "_resources/Images/20260220_130204.jpg",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 2. Кинематика.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1..md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 1.md",
     "Daily/2026-02-19.md",
     "Daily/2026-02-18.md",
     "_resources/Images/Pasted image 20260218125315.png",
     "_resources/Images/Pasted image 20260218125224.png",
     "_resources/Images/20260218_111541.jpg",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 1.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 2. Федеральные округа.md",
     "Daily/2026-02-17.md",
     "Daily/2026-02-16.md",
     "Education/Courses/2026/AnSD(T-Bank)",
     "Education/Courses/2026",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 18. Великая российская революция.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Untitled.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History",
-    "_resources/Images/unnamed.png",
-    "_resources/Images/071d1f03d0b087a2663efee5fa26750d3dc75553.jpeg",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8",
-    "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
-    "Education/Uni/Freshman (1st year)/1sem/Grades.md",
-    "Education/Uni/Freshman (1st year)/1sem/hw.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects",
     "Education/Uni/Freshman (1st year)/2sem",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInPr/Untitled.canvas",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInPr",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/Untitled.canvas",
-    "Excalidraw",
-    "Education/Uni/Freshman (1st year)/1sem/Subjects/Math",
-    "_resources/Images/Pasted image 20250927111713.png",
-    "_resources/Images/Pasted image 20250927105323.png",
-    "_resources/Images/Pasted image 20250927104907.png"
+    "Excalidraw"
   ]
 }

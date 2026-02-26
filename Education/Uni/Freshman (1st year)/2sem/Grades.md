@@ -7,6 +7,8 @@ kanban-plugin: list
 ## History
 
 - [ ] ➕ 2026-02-12 | ClassWork - Groupwork | N
+- [ ] ➕ 2026-02-26 | hw 1 in vk | N
+- [ ] ➕ 2026-02-26 | ClassWork | N
 
 
 ## FoRS
@@ -14,6 +16,7 @@ kanban-plugin: list
 - [ ] ➕ 2026-02-13 | ClassWork (Lection 1) | 1
 - [ ] ➕ 2026-02-20 | ClassWork (Lection 2) | 1
 - [ ] ➕ 2026-02-11 | PracticeWork | 1
+- [ ] ➕ 2026-02-25 | PracticeWork | 1
 
 
 ## English
@@ -30,6 +33,7 @@ kanban-plugin: list
 
 ## Physics
 
+- [ ] ➕ 2026-02-27 | lab 1 | N
 
 
 ## Java
@@ -48,6 +52,7 @@ kanban-plugin: list
 - [ ] ➕ 2026-02-12 | Practice 2
 - [ ] ➕ 2026-02-16 | Practice 3
 - [ ] ➕ 2026-02-19 | Practice 4
+- [ ] ➕ 2026-02-26 | Practice 5
 
 
 ## Project Work
