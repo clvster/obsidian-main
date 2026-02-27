@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/Grades.md",
+                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
@@ -30,7 +30,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Grades"
+              "title": "hw"
             }
           }
         ]
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -205,14 +205,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b14c4718c4b71cd1",
+  "active": "7256af40a71fed3a",
   "lastOpenFiles": [
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 2. Кинематика.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 1.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 3. Кинематика.md",
     "Education/Uni/Freshman (1st year)/2sem/hw.md",
     "Education/Uni/Freshman (1st year)/2sem/Grades.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 1.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 2. Кинематика.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 3. Кинематика.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
     "_resources/Images/20260225_120059.jpg",
     "_resources/Images/20260225_115417.jpg",
     "_resources/Images/20260225_114835.jpg",

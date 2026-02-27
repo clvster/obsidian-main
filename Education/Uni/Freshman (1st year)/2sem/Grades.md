@@ -17,6 +17,7 @@ kanban-plugin: list
 - [ ] ➕ 2026-02-20 | ClassWork (Lection 2) | 1
 - [ ] ➕ 2026-02-11 | PracticeWork | 1
 - [ ] ➕ 2026-02-25 | PracticeWork | 1
+- [ ] ➕ 2026-02-27 | ClassWork (Lection 3) | 1
 
 
 ## English
