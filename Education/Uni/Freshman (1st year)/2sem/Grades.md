@@ -40,6 +40,7 @@ kanban-plugin: list
 ## Java
 
 - [ ] ➕ 2026-02-21 | lab 1 | N
+- [ ] ➕ 2026-02-28 | lab 2 | N
 
 
 ## Disc. Math
