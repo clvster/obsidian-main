@@ -34,7 +34,6 @@ kanban-plugin: list
 
 ## Physics
 
-- [ ] ➕ 2026-02-27 | lab 1 | N
 
 
 ## Java

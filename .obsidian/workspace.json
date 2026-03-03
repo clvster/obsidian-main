@@ -11,26 +11,14 @@
             "id": "7256af40a71fed3a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Daily/2026-03-05.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "hw"
+              "icon": "lucide-file",
+              "title": "2026-03-05"
             }
           }
         ]
@@ -149,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/Grades.md",
+                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Grades"
+              "title": "Outline of hw"
             }
           },
           {
@@ -205,10 +193,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7256af40a71fed3a",
+  "active": "009668f7b4ca279c",
   "lastOpenFiles": [
-    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
+    "Daily/2026-03-04.md",
+    "Daily/2026-03-05.md",
     "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 2. Кинематика.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 1.md",
@@ -244,7 +234,6 @@
     "Daily/2026-02-16.md",
     "Education/Courses/2026/AnSD(T-Bank)",
     "Education/Courses/2026",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 18. Великая российская революция.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8",
