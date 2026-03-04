@@ -18,6 +18,8 @@ kanban-plugin: list
 - [ ] ➕ 2026-02-11 | PracticeWork | 1
 - [ ] ➕ 2026-02-25 | PracticeWork | 1
 - [ ] ➕ 2026-02-27 | ClassWork (Lection 3) | 1
+- [ ] ➕ 2026-03-04 | Задание №1 | 2
+- [ ] ➕ 2026-03-04 | РСВ тесты | N
 
 
 ## English
