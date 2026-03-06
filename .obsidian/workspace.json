@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 340
   },
   "right": {
     "id": "152121f99d72aa65",
@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362
+    "width": 339
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,11 +220,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "009668f7b4ca279c",
+  "active": "7125e52db1ababdc",
   "lastOpenFiles": [
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 4. Динамика.md",
+    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
     "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 3. Кинематика.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 1.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 2. Кинематика.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 4. Динамика.md",
+    "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
     "Daily/2026-03-06.md",
     "Daily/2026-03-04.md",
     "Daily/2026-03-05.md",
@@ -242,11 +247,6 @@
     "Excalidraw/Drawing 2026-03-04 11.33.27.excalidraw.md",
     "Excalidraw/Drawing 2025-10-21 16.35.53.excalidraw.md",
     "Excalidraw/Drawing 2026-03-04 11.20.43.excalidraw.md",
-    "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 3. Кинематика.md",
-    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 2. Кинематика.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 1.md",
     "Daily/2026-02-25.md",
     "Education/Courses/2026/AnSD(T-Bank)/Lection 2.md",
     "Education/Courses/2026/AnSD(T-Bank)/Seminar 1.md",

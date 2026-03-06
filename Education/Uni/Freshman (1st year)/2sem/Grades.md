@@ -20,6 +20,7 @@ kanban-plugin: list
 - [ ] ➕ 2026-02-27 | ClassWork (Lection 3) | 1
 - [ ] ➕ 2026-03-04 | Задание №1 | 2
 - [ ] ➕ 2026-03-04 | РСВ тесты | N
+- [ ] ➕ 2026-03-06 | ClassWork (Lection 4) | 1
 
 
 ## English
@@ -42,6 +43,7 @@ kanban-plugin: list
 
 - [ ] ➕ 2026-02-21 | lab 1 | N
 - [ ] ➕ 2026-02-28 | lab 2 | N
+- [ ] ➕ 2026-03-07 | lab 3 | N
 
 
 ## Disc. Math
