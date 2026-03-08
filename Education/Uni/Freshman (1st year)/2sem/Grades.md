@@ -21,6 +21,7 @@ kanban-plugin: list
 - [ ] ➕ 2026-03-04 | Задание №1 | 2
 - [ ] ➕ 2026-03-04 | РСВ тесты | N
 - [ ] ➕ 2026-03-06 | ClassWork (Lection 4) | 1
+- [ ] ➕ 2026-03-08 | Тест 1 | 1
 
 
 ## English
@@ -29,6 +30,7 @@ kanban-plugin: list
 - [ ] ➕ 2026-02-16 | hw 1.2 | N
 - [ ] ➕ 2026-02-18 | hw 1.3 | N
 - [ ] ➕ 2026-02-26 | hw 1.4 | N
+- [ ] ➕ 2026-03-05 | hw 1.6 | N
 
 
 ## Math
@@ -37,18 +39,20 @@ kanban-plugin: list
 
 ## Physics
 
+- [ ] ➕ 2026-03-07 | lab 1 | 1.5
 
 
 ## Java
 
 - [ ] ➕ 2026-02-21 | lab 1 | N
 - [ ] ➕ 2026-02-28 | lab 2 | N
-- [ ] ➕ 2026-03-07 | lab 3 | N
 
 
 ## Disc. Math
 
 - [ ] ➕ 2026-02-16 | Independent Work (in classroom) | N
+- [ ] ➕ 2026-02-26 | Indep. Work (in classroom) | N
+- [ ] ➕ 2026-03-09 | Поиск Эйлерова цикла доклад | N
 
 
 ## Phys. Educ

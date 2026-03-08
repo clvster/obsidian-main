@@ -39,6 +39,7 @@
                     false,
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
@@ -105,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340
+    "width": 254
   },
   "right": {
     "id": "152121f99d72aa65",
@@ -198,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339
+    "width": 368
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,16 +221,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7125e52db1ababdc",
+  "active": "009668f7b4ca279c",
   "lastOpenFiles": [
     "Education/Uni/Freshman (1st year)/2sem/Grades.md",
     "Education/Uni/Freshman (1st year)/2sem/hw.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 3. Кинематика.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 1.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 2. Кинематика.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 4. Динамика.md",
-    "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 3. Народы России. Культура, традиции и религия.md",
+    "Daily/2026-03-08.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lection 3. Boot Process & Systemd Deep Dive.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 2. Кинематика.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 1.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 4. Динамика.md",
+    "Daily/2026-03-10.md",
+    "Daily/2026-03-09.md",
+    "Daily/2026-03-07.md",
+    "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
+    "Excalidraw/Drawing 2026-03-07 12.27.09.excalidraw.md",
+    "_resources/Images/Drawing 2026-03-07 12.27.09.excalidraw.svg",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 3. Кинематика.md",
     "Daily/2026-03-06.md",
     "Daily/2026-03-04.md",
     "Daily/2026-03-05.md",
@@ -243,7 +252,6 @@
     "_resources/Images/20260304_112718 1.jpg",
     "_resources/Images/Pasted image 20250927104312.png",
     "_resources/Images/Pasted image 20250927104907.png",
-    "_resources/Images/Pasted image 20250927105323.png",
     "Excalidraw/Drawing 2026-03-04 11.33.27.excalidraw.md",
     "Excalidraw/Drawing 2025-10-21 16.35.53.excalidraw.md",
     "Excalidraw/Drawing 2026-03-04 11.20.43.excalidraw.md",
@@ -252,13 +260,6 @@
     "Education/Courses/2026/AnSD(T-Bank)/Seminar 1.md",
     "Education/Courses/2026/Untitled.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 3. Народы России. Культура, традиции и религия.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 2. Федеральные округа.md",
-    "Daily/2026-02-26.md",
-    "Daily/2026-02-24.md",
-    "Daily/2026-02-21.md",
-    "Daily/2026-02-22.md",
-    "Daily/2026-02-20.md",
     "Education/Courses/2026/AnSD(T-Bank)",
     "Education/Courses/2026",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS",
