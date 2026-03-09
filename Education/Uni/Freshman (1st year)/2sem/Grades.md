@@ -35,6 +35,7 @@ kanban-plugin: list
 
 ## Math
 
+- [ ] ➕ 2026-03-10 | IHW | N/2
 
 
 ## Physics

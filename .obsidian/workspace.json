@@ -25,27 +25,14 @@
             "id": "7125e52db1ababdc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Daily/2026-03-10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "hw"
+              "icon": "lucide-file",
+              "title": "2026-03-10"
             }
           }
         ],
@@ -165,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
+                "file": "Daily/2026-03-10.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hw"
+              "title": "Outline of 2026-03-10"
             }
           },
           {
@@ -223,8 +210,9 @@
   },
   "active": "009668f7b4ca279c",
   "lastOpenFiles": [
-    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
     "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Daily/2026-03-10.md",
+    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 3. Народы России. Культура, традиции и религия.md",
     "Daily/2026-03-08.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lection 3. Boot Process & Systemd Deep Dive.md",
@@ -232,7 +220,6 @@
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 2. Кинематика.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 1.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lection 4. Динамика.md",
-    "Daily/2026-03-10.md",
     "Daily/2026-03-09.md",
     "Daily/2026-03-07.md",
     "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
