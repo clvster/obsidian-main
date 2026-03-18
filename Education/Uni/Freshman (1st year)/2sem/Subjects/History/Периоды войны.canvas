@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d496ed819ebe05fa","x":-160,"y":-240,"width":250,"height":60,"type":"text","text":"Первый Период"},
+		{"id":"e921606791b695d0","x":-159,"y":-100,"width":250,"height":60,"type":"text","text":"22 июня 1941г. до 18 ноября 1942г."},
+		{"id":"7ea577111565d7e0","x":-159,"y":37,"width":251,"height":223,"type":"text","text":"Это был начальный период войны, когда Красная Армия, неся огромные потери, была вынуждена оставить большие территории и вела тяжёлые оборонительные бои"},
+		{"id":"4d12b14db9514192","x":142,"y":-240,"width":250,"height":60,"type":"text","text":"Второй период\n"},
+		{"id":"0709c8fa48252720","x":141,"y":-100,"width":250,"height":60,"type":"text","text":"19 ноября 1942г. до конца 1943г."},
+		{"id":"ceb26eed67075411","x":140,"y":37,"width":251,"height":120,"type":"text","text":"Это время коренного перелома в ходе войны в пользу СССР"},
+		{"id":"a7ab2a47aab616a4","x":460,"y":-240,"width":250,"height":60,"type":"text","text":"Третий период"},
+		{"id":"b214bfbe60b759f3","x":460,"y":-100,"width":250,"height":137,"type":"text","text":"1944г - май 1945г. время решающих побед Советской Армии над фашистской Германией."},
+		{"id":"485d42aca5409021","x":460,"y":97,"width":250,"height":273,"type":"text","text":"Вражеские войска были полностью изгнаны за пределы СССР и началось освобождение от фашистской оккупации Восточной Европы, завершившейся полных крахом Германии и её безоговорочной капитуляцией."}
+	],
+	"edges":[
+		{"id":"c0bfdbe1f9d5cbaa","fromNode":"d496ed819ebe05fa","fromSide":"bottom","toNode":"e921606791b695d0","toSide":"top"},
+		{"id":"08c614a888abb642","fromNode":"e921606791b695d0","fromSide":"bottom","toNode":"7ea577111565d7e0","toSide":"top"},
+		{"id":"5cc423d8cc0c2d64","fromNode":"4d12b14db9514192","fromSide":"bottom","toNode":"0709c8fa48252720","toSide":"top"},
+		{"id":"2c0d33e02599ac99","fromNode":"0709c8fa48252720","fromSide":"bottom","toNode":"ceb26eed67075411","toSide":"top"},
+		{"id":"7b017aaa06d77b76","fromNode":"a7ab2a47aab616a4","fromSide":"bottom","toNode":"b214bfbe60b759f3","toSide":"top"},
+		{"id":"01520332af98d30d","fromNode":"b214bfbe60b759f3","fromSide":"bottom","toNode":"485d42aca5409021","toSide":"top"}
+	]
+}
