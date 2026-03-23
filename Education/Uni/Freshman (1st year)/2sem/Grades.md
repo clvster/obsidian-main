@@ -36,6 +36,7 @@ kanban-plugin: list
 - [ ] ➕ 2026-03-11 | hw 1.7 | N
 - [ ] ➕ 2026-03-14 | hw 1.8 | N
 - [ ] ➕ 2026-03-18 | hw 1.9 | N
+- [ ] ➕ 2026-03-22 | hw 1.10 | N
 
 
 ## Math
@@ -48,7 +49,7 @@ kanban-plugin: list
 
 - [ ] ➕ 2026-03-07 | lab 1 | 1.5/2
 - [ ] ➕ 2026-03-12 | model 1 | 4/4
-- [ ] ➕ 2026-03-12 | model 2 (lab1) | N
+- [ ] ➕ 2026-03-12 | model 2 (lab1) | 2/2
 
 
 ## Java
@@ -62,8 +63,8 @@ kanban-plugin: list
 - [ ] ➕ 2026-02-16 | Independent Work (in classroom) | N
 - [ ] ➕ 2026-02-26 | Indep. Work (in classroom) | N
 - [ ] ➕ 2026-03-09 | Поиск Эйлерова цикла доклад | N
-- [ ] ➕ 2026-03-12 | Indep. Work (in classroom) | N
-- [ ] ➕ 2026-03-12 | Indep. Work (in classroom) | N
+- [ ] ➕ 2026-03-12 | Indep. Work (in classroom) Дейкстры | 1/1
+- [ ] ➕ 2026-03-12 | Indep. Work (in classroom) Краскал | 1/1
 - [ ] ➕ 2026-03-14 | Indep. Work (доделать) | N
 - [ ] ➕ 2026-03-16 | Test 1 in e.course | 3.92 / 5
 
@@ -78,6 +79,8 @@ kanban-plugin: list
 - [ ] ➕ 2026-03-12 | Practice 6
 - [ ] ➕ 2026-03-16 | Practice 7
 - [ ] ➕ 2026-03-19 | Practice 8
+- [ ] ➕ 2026-03-19 | ГТО за регистрацию
+- [ ] ➕ 2026-03-23 | Practice 9
 
 
 ## Project Work
