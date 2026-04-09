@@ -13,11 +13,10 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
+                "file": "Education/Uni/Freshman (1st year)/2sem/Grades.md",
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
-                    false,
                     false,
                     false,
                     false,
@@ -31,7 +30,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "hw"
+              "title": "Grades"
             }
           }
         ]
@@ -150,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 1.md",
+                "file": "Education/Uni/Freshman (1st year)/2sem/Grades.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 1"
+              "title": "Outline of Grades"
             }
           },
           {
@@ -208,44 +207,44 @@
   },
   "active": "55ae7cb14c71ab83",
   "lastOpenFiles": [
-    "Daily/2026-04-05.md",
-    "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Practice.md",
     "Education/Uni/Freshman (1st year)/2sem/Grades.md",
+    "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 9.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 8. Социально-экономическое развитие, общественно-политическая жизнь, культура СССР в 40-50г..md",
+    "_resources/Images/Pasted image 20260408125019.png",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 1.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 8. Гравитационное поле, СТО, неинерциальные СО.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 7. Динамика вращения. Гравитационное поле. СТО.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 6. Законы сокращения. Динамика вращения.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 4. Динамика.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 5. Законы сохранения.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 3. Кинематика.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 2. Кинематика.md",
+    "Daily/2026-04-06.md",
+    "_resources/Images/Pasted image 20260405185811.png",
+    "_resources/Images/Pasted image 20260405185024.png",
+    "_resources/Images/Pasted image 20260405183656.png",
+    "_resources/Images/Pasted image 20260405183416.png",
+    "_resources/Images/Pasted image 20260405183148.png",
+    "_resources/Images/Pasted image 20260405183049.png",
+    "_resources/Images/Pasted image 20260405182853.png",
+    "_resources/Images/Pasted image 20260405182510.png",
+    "_resources/Images/Pasted image 20260405175754.png",
+    "Daily/2026-04-05.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/English/Practice.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/English",
     "Daily/2026-04-02.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
     "Daily/2026-04-01.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 8. Гравитационное поле, СТО, неинерциальные СО.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 7.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 7. Динамика вращения. Гравитационное поле. СТО.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 2. Кинематика.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 3. Кинематика.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 1.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 1.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 8..md",
     "Excalidraw/Drawing 2026-04-01 08.36.44.excalidraw.md",
     "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice.md",
     "Excalidraw/Drawing 2026-03-27 10.36.05.excalidraw.md",
-    "_resources/Images/Drawing 2026-03-27 10.36.05.excalidraw.svg",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 5. Законы сохранения.md",
-    "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInPr/Control work.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 7..md",
-    "Daily/2026-03-26.md",
-    "Daily/2026-03-25.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 6. СССР накануне Великой Отечественной Войны.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Периоды войны.canvas",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 6..md",
-    "_resources/Images/Drawing 2026-03-18 11.54.15.excalidraw.svg",
-    "_resources/Images/Drawing 2026-03-18 11.38.46.excalidraw (1).svg",
-    "_resources/Images/Drawing 2026-03-18 11.38.46.excalidraw.svg",
-    "_resources/Images/20260318_111104.jpg",
-    "_resources/Images/20260318_110941.jpg",
-    "_resources/Images/Drawing 2026-03-18 10.50.13.excalidraw.restored (1).svg",
-    "_resources/Images/Drawing 2026-03-18 10.50.13.excalidraw.restored.svg",
-    "_resources/Images/Drawing 2026-03-18 10.50.13.excalidraw.restored.png",
-    "_resources/Images/Pasted image 20260318105109.png",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Untitled",
     "Education/Courses/2026/DevOps n SRE (VK Education)",
     "Education/Courses/2026/AnSD(T-Bank)",
