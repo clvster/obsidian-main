@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03999344d81ac9b5",
+        "id": "d725f7f8cb96e256",
         "type": "tabs",
         "children": [
           {
-            "id": "55ae7cb14c71ab83",
+            "id": "c6dd6116d7b8996c",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -206,14 +206,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "009668f7b4ca279c",
+  "active": "c6dd6116d7b8996c",
   "lastOpenFiles": [
     "Education/Uni/Freshman (1st year)/2sem/Grades.md",
     "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 9. Социально-экономическое развитие, период оттепели.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 10..md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 9. TCP, IP Model, Handshakes, States.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 5. Memory Management (Swap, OOM, Caches).md",
+    "_resources/Images/20260422_134934.jpg",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 8. Социально-экономическое развитие, общественно-политическая жизнь, культура СССР в 40-50г..md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 4. Boot Process & Systemd Deep Dive.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 2-3. SRE Практики.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 5. Memory Management (Swap, OOM, Caches).md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 9. TCP, IP Model, Handshakes, States.md",
     "Daily/2026-04-20.md",
     "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 6. Законы сокращения. Динамика вращения.md",
@@ -222,9 +226,7 @@
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 8. Гравитационное поле, СТО, неинерциальные СО.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 7. Динамика вращения. Гравитационное поле. СТО.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 9.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 8. Социально-экономическое развитие, общественно-политическая жизнь, культура СССР в 40-50г..md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 7.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 9. Социально-экономическое развитие, период оттепели.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 6. СССР накануне Великой Отечественной Войны.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Practice.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Периоды войны.canvas",
@@ -233,8 +235,6 @@
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 9.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 1.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 3. Кинематика.md",
     "_resources/Images/Pasted image 20260409212757.png",
     "_resources/Images/Pasted image 20260409212744.png",
     "_resources/Images/Pasted image 20260408125019.png",
@@ -244,7 +244,6 @@
     "_resources/Images/Pasted image 20260405183416.png",
     "_resources/Images/Pasted image 20260405183148.png",
     "_resources/Images/Pasted image 20260405183049.png",
-    "_resources/Images/Pasted image 20260405182853.png",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/English",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Untitled",
     "Education/Courses/2026/DevOps n SRE (VK Education)",
