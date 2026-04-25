@@ -33,6 +33,33 @@
               "icon": "lucide-trello",
               "title": "hw"
             }
+          },
+          {
+            "id": "717f7a3522a9b027",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "hw"
+            }
           }
         ]
       }
@@ -210,6 +237,11 @@
   "lastOpenFiles": [
     "Education/Uni/Freshman (1st year)/2sem/Grades.md",
     "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 10. DNS, HTTP.S & TLS internals.md",
+    "_resources/Images/Pasted image 20260425113059.png",
+    "_resources/Images/Pasted image 20260425105455.png",
+    "Excalidraw/Drawing 2026-04-25 10.43.13.excalidraw.md",
+    "_resources/Images/Pasted image 20260425103056.png",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 9. Социально-экономическое развитие, период оттепели.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 10..md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 9. TCP, IP Model, Handshakes, States.md",
@@ -233,17 +265,12 @@
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 9. СТО. Неинерциальная СТО.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 10.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 9.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Practice 1.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 1.md",
     "_resources/Images/Pasted image 20260409212757.png",
     "_resources/Images/Pasted image 20260409212744.png",
     "_resources/Images/Pasted image 20260408125019.png",
     "_resources/Images/Pasted image 20260405185811.png",
     "_resources/Images/Pasted image 20260405185024.png",
     "_resources/Images/Pasted image 20260405183656.png",
-    "_resources/Images/Pasted image 20260405183416.png",
-    "_resources/Images/Pasted image 20260405183148.png",
-    "_resources/Images/Pasted image 20260405183049.png",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/English",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Untitled",
     "Education/Courses/2026/DevOps n SRE (VK Education)",
