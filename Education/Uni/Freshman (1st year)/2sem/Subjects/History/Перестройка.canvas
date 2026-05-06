@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"80d9a1eaa9040792","x":-46,"y":-135,"width":250,"height":60,"type":"text","text":"Основные направления \"Перестройки\""},
+		{"id":"c3b380b90efda8e1","x":-46,"y":380,"width":250,"height":60,"type":"text","text":"Открытая внешняя политика"},
+		{"id":"f50d3351d5e59fb3","x":-240,"y":210,"width":250,"height":60,"type":"text","text":"Демократизация"},
+		{"id":"b6f8e799c7b65a27","x":-365,"y":79,"width":250,"height":61,"type":"text","text":"Политические реформы"},
+		{"id":"4d02cf3b69ebce3e","x":-520,"y":210,"width":250,"height":60,"type":"text","text":"Гласность"},
+		{"id":"441eb3b620f22908","x":204,"y":80,"width":250,"height":60,"type":"text","text":"Экономические реформы"},
+		{"id":"84d62c4aa9205e68","x":204,"y":210,"width":250,"height":60,"type":"text","text":"Ускорение социально-экономического развития"}
+	],
+	"edges":[
+		{"id":"6309806b0a79c2a4","fromNode":"80d9a1eaa9040792","fromSide":"bottom","toNode":"b6f8e799c7b65a27","toSide":"top"},
+		{"id":"f47c80872790730b","fromNode":"80d9a1eaa9040792","fromSide":"bottom","toNode":"441eb3b620f22908","toSide":"top"},
+		{"id":"c1bcbc63e7252428","fromNode":"b6f8e799c7b65a27","fromSide":"bottom","toNode":"4d02cf3b69ebce3e","toSide":"top"},
+		{"id":"af4f8cccee396c09","fromNode":"b6f8e799c7b65a27","fromSide":"bottom","toNode":"f50d3351d5e59fb3","toSide":"top"},
+		{"id":"45cdc59da08d42ac","fromNode":"441eb3b620f22908","fromSide":"bottom","toNode":"84d62c4aa9205e68","toSide":"top"},
+		{"id":"dd35af800894102d","fromNode":"80d9a1eaa9040792","fromSide":"bottom","toNode":"c3b380b90efda8e1","toSide":"top"}
+	]
+}
