@@ -13,10 +13,11 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/Grades.md",
+                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
+                    false,
                     false,
                     false,
                     false,
@@ -30,7 +31,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Grades"
+              "title": "hw"
             }
           },
           {
@@ -176,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
+                "file": "Daily/2026-05-09.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hw"
+              "title": "Outline of 2026-05-09"
             }
           },
           {
@@ -232,45 +233,46 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c6dd6116d7b8996c",
+  "active": "009668f7b4ca279c",
   "lastOpenFiles": [
+    "Daily/2026-05-13.md",
+    "Daily/2026-05-14.md",
+    "Daily/2026-05-10.md",
+    "Daily/2026-05-11.md",
     "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture X1. Content Delivery Network.md",
+    "_resources/Images/Pasted image 20260513012025.png",
+    "_resources/Images/Pasted image 20260513011718.png",
+    "_resources/Images/Pasted image 20260513011516.png",
+    "_resources/Images/Pasted image 20260513011406.png",
+    "_resources/Images/Pasted image 20260513005150.png",
+    "_resources/Images/Pasted image 20260513005006.png",
+    "_resources/Images/Pasted image 20260513004655.png",
+    "_resources/Images/Pasted image 20260513004618.png",
+    "_resources/Images/Pasted image 20260513004615.png",
+    "_resources/Images/Pasted image 20260513004418.png",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 10. DNS, HTTP.S & TLS internals.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 11. Netfilter, iptables & Routing tables.md",
-    "_resources/Images/Pasted image 20260507134700.png",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 13. CICD Architecture & Artifacts.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 12. GitFlow & Branching Strategies.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 2-3. SRE Практики.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 4. Boot Process & Systemd Deep Dive.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 5. Memory Management (Swap, OOM, Caches).md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 9. TCP, IP Model, Handshakes, States.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 11. Netfilter, iptables & Routing tables.md",
+    "Life/gym/План 1.md",
+    "Life/gym/План 3.md",
+    "Life/gym/План 2.md",
+    "Education/Goals.md",
+    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
+    "Daily/2026-05-09.md",
+    "Daily/2026-05-08.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 11.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 12. 1985-1991г. Реформирование советской системы. Перестройка.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 10.md",
-    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 6. СССР накануне Великой Отечественной Войны.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Периоды войны.canvas",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 7.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 8. Социально-экономическое развитие, общественно-политическая жизнь, культура СССР в 40-50г..md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 9. Социально-экономическое развитие, период оттепели.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Перестройка.canvas",
-    "_resources/Images/20260506_131518.jpg",
-    "_resources/Images/20260506_131120.jpg",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 5.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Practice 10.md",
-    "_resources/Images/Pasted image 20260505114039.png",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Math 2.3/Math.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 1.md",
-    "Excalidraw/Drawing 2026-04-29 12.39.56.excalidraw.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 9. СТО. Неинерциальная СТО.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 8. Гравитационное поле, СТО, неинерциальные СО.md",
-    "_resources/Images/Pasted image 20260428105640.png",
-    "_resources/Images/Pasted image 20260428084848.png",
-    "_resources/Images/Pasted image 20260425113059.png",
-    "_resources/Images/Pasted image 20260425105455.png",
-    "Excalidraw/Drawing 2026-04-25 10.43.13.excalidraw.md",
-    "_resources/Images/Pasted image 20260425103056.png",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 5. Memory Management (Swap, OOM, Caches).md",
-    "_resources/Images/20260422_134934.jpg",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 4. Boot Process & Systemd Deep Dive.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 2-3. SRE Практики.md",
-    "Daily/2026-04-20.md",
-    "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/English",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Untitled",
     "Education/Courses/2026/DevOps n SRE (VK Education)",
