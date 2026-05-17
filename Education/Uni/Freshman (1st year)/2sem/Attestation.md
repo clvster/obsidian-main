@@ -13,7 +13,7 @@ kanban-plugin: board
 - [ ] Physics | exam |
 - [ ] Java | credit |
 - [ ] Disc. Math | credit |
-- [ ] Phys. Educ | credit |
+- [ ] Phys. Educ | credit | ✅
 - [ ] Project Work | credit |
 - [ ] Practice | credit |
 

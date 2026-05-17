@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-05-15.md",
+                "file": "Daily/2026-05-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-15"
+              "title": "2026-05-18"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-05-09.md",
+                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-09"
+              "title": "Outline of hw"
             }
           },
           {
@@ -194,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -220,44 +220,44 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b14c4718c4b71cd1",
+  "active": "009668f7b4ca279c",
   "lastOpenFiles": [
-    "Daily/2026-05-14.md",
     "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Daily/2026-05-18.md",
+    "Daily/2026-05-17.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 11. Netfilter, iptables & Routing tables.md",
+    "Education/Goals.md",
+    "Education/Meetup. SRE. T-Bank.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 14. Security in Pipeline. DevSecOps Lite.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 13. CICD Architecture & Artifacts.md",
+    "_resources/Images/Pasted image 20260516112925.png",
+    "_resources/Images/Pasted image 20260516112923.png",
+    "_resources/Images/Pasted image 20260516112214.png",
+    "_resources/Images/Pasted image 20260516110932.png",
+    "_resources/Images/Pasted image 20260516110901.png",
+    "_resources/Images/Pasted image 20260516110001.png",
+    "_resources/Images/Pasted image 20260516105849.png",
+    "_resources/Images/Pasted image 20260516105822.png",
+    "_resources/Images/Pasted image 20260516105733.png",
+    "_resources/Images/Pasted image 20260516105534.png",
     "Daily/2026-05-15.md",
-    "Daily/2026-05-13.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/English/Exam demo.md",
+    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
+    "Daily/2026-05-14.md",
+    "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
+    "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 14. GitOps. Flux и ArgoCD.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture X1. Content Delivery Network.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 13..md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 12. 1985-1991г. Реформирование советской системы. Перестройка.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 9. Социально-экономическое развитие, период оттепели.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 11.md",
+    "Daily/2026-05-13.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Lecture 9. Социально-экономическое развитие, период оттепели.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 10. DNS, HTTP.S & TLS internals.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture X1. Content Delivery Network.md",
     "Daily/2026-05-10.md",
     "Daily/2026-05-11.md",
-    "_resources/Images/Pasted image 20260513012025.png",
-    "_resources/Images/Pasted image 20260513011718.png",
-    "_resources/Images/Pasted image 20260513011516.png",
-    "_resources/Images/Pasted image 20260513011406.png",
-    "_resources/Images/Pasted image 20260513005150.png",
-    "_resources/Images/Pasted image 20260513005006.png",
-    "_resources/Images/Pasted image 20260513004655.png",
-    "_resources/Images/Pasted image 20260513004618.png",
-    "_resources/Images/Pasted image 20260513004615.png",
-    "_resources/Images/Pasted image 20260513004418.png",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 13. CICD Architecture & Artifacts.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 12. GitFlow & Branching Strategies.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 2-3. SRE Практики.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 4. Boot Process & Systemd Deep Dive.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 5. Memory Management (Swap, OOM, Caches).md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 9. TCP, IP Model, Handshakes, States.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 11. Netfilter, iptables & Routing tables.md",
-    "Life/gym/План 1.md",
-    "Life/gym/План 3.md",
-    "Life/gym/План 2.md",
-    "Education/Goals.md",
-    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
-    "Daily/2026-05-09.md",
-    "Daily/2026-05-08.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Периоды войны.canvas",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Перестройка.canvas",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/English",
