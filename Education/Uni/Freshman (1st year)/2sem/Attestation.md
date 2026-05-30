@@ -11,7 +11,7 @@ kanban-plugin: board
 - [ ] English | exam |
 - [ ] Math | exam |
 - [ ] Physics | exam |
-- [ ] Java | credit |
+- [ ] Java | credit | 100 ✅
 - [ ] Disc. Math | credit |
 - [ ] Phys. Educ | credit | ✅
 - [ ] Project Work | credit |
