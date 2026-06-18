@@ -7,9 +7,9 @@ kanban-plugin: board
 ## Disciplines
 
 - [ ] History | exam |
-- [ ] FoRS | exam |
-- [ ] English | exam |
-- [ ] Math | exam |
+- [ ] FoRS | exam | 98 | A(5)
+- [ ] English | exam | 94 | A(5)
+- [ ] Math | exam | 72 | B(4)
 - [ ] Physics | exam |
 - [ ] Java | credit | 100 ✅
 - [ ] Disc. Math | credit |
