@@ -150,13 +150,15 @@ kanban-plugin: list
 - [x] ➕ 2026-05-13 | Lecture 14 && seminar 7 | 2:10:00 ✅ 2026-05-16
 - [x] ➕ 2026-05-20 | lecture 15 && seminar 8 | seminar 8: 09:00 ✅ 2026-05-27
 - [x] ➕ 2026-05-27 | lecture X2 ✅ 2026-05-30
-- [ ] ➕ 2026-05-27 | Seminar 9
+- [x] ➕ 2026-05-27 | Seminar 9 ✅ 2026-06-19
+- [x] ➕ 2026-06-19 | Lecture 16 && seminar 10 ✅ 2026-06-26
+- [ ] ➕ 2026-06-27 | Lecture 17 && lecture 18
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[true,true,true,true,false,true,false,true,true,false],"show-checkboxes":true,"full-list-lane-width":true}
+{"kanban-plugin":"list","list-collapse":[true,true,true,true,false,true,true,true,true,false],"show-checkboxes":true,"full-list-lane-width":true}
 ```
 %%

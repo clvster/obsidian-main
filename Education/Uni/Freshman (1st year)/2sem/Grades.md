@@ -15,6 +15,7 @@ kanban-plugin: list
 - [ ] ➕ 2026-04-28 | БО №3 | 1.4/1.5
 - [ ] ➕ 2026-04-28 | БО №4 | 1.5/1.5
 - [ ] ➕ 2026-05-05 | Проект | 9.5/10
+- [ ] ➕ 2026-06-18 | exam | 30/40
 
 
 ## FoRS
@@ -30,6 +31,7 @@ kanban-plugin: list
 - [ ] ➕ 2026-04-29 | Test 4 | 1/1
 - [ ] ➕ 2026-05-06 | преза по проблемам | 2/2
 - [ ] ➕ 2026-05-08 | преза по нац. проекту | 2/2
+- [ ] ➕ 2026-06-11 | exam | 38/40
 
 
 ## English
@@ -67,6 +69,7 @@ kanban-plugin: list
 - [ ] ➕ 2026-05-10 | IHW 3 | 1/1
 - [ ] ➕ 2026-05-24 | lb3 | 2/2
 - [ ] ➕ 2026-06-05 | lb4 | N/2
+- [ ] ➕ 2026-06-15 | exam | 28/40
 
 
 ## Physics
@@ -83,6 +86,7 @@ kanban-plugin: list
 - [ ] ➕ 2026-06-02 | IHW 2 | 4/5
 - [ ] ➕ 2026-06-02 | model 4 | 4/4
 - [ ] ➕ 2026-06-03 | Colloquium | 6.5/7
+- [ ] ➕ 2026-06-23 | Exam | 38/40
 
 
 ## Java
@@ -158,6 +162,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false,false,false],"show-checkboxes":false,"full-list-lane-width":true}
+{"kanban-plugin":"list","list-collapse":[true,true,true,true,true,true,true,true,true],"show-checkboxes":false,"full-list-lane-width":true}
 ```
 %%
