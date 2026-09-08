@@ -12,7 +12,7 @@
   "showQuickSwitcherIcons": true,
   "showMoveFileIcons": true,
   "showItemName": "desktop",
-  "biggerSearchResults": "mobile",
+  "useSearchKeywords": "on",
   "maxSearchResults": 50,
   "colorPicker1": "list",
   "colorPicker2": "rgb",
@@ -20,7 +20,6 @@
   "uncolorDrag": false,
   "uncolorSelect": false,
   "uncolorQuick": false,
-  "rememberDeletedItems": false,
   "maxBackups": 5,
   "dialogState": {
     "iconMode": true,
@@ -44,5 +43,7 @@
   "propertyIcons": {},
   "ribbonIcons": {},
   "fileRules": [],
-  "folderRules": []
+  "folderRules": [],
+  "biggerSearchResults": "mobile",
+  "rememberDeletedItems": false
 }

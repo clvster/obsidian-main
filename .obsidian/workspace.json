@@ -4,34 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "502ac98746dfbf99",
+        "id": "db4eac7c6b5ffd3c",
         "type": "tabs",
         "children": [
           {
-            "id": "230d631e714106f0",
+            "id": "6207bf20378a8af0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    true,
-                    true,
-                    true,
-                    true,
-                    false,
-                    true,
-                    true,
-                    true,
-                    true,
-                    false
-                  ]
-                }
+                "file": "Education/Courses/2026/AnSD(T-Bank)/Lection 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "hw"
+              "icon": "lucide-file",
+              "title": "Lection 2"
             }
           }
         ]
@@ -152,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Uni/Freshman (1st year)/2sem/hw.md",
+                "file": "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Physics 2.8/Lecture 1..md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hw"
+              "title": "Outline"
             }
           },
           {
@@ -186,10 +173,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356
+    "width": 376.1328125
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "iconic:Open rulebook": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -200,44 +192,49 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false,
-      "iconic:Open rulebook": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "230d631e714106f0",
+  "active": "009668f7b4ca279c",
   "lastOpenFiles": [
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 17. Kubernetes Architecture & Pods.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 16. Container Internals. Namespaces && cgroups.md",
-    "Education/Uni/Freshman (1st year)/2sem/hw.md",
-    "Education/Uni/Freshman (1st year)/1sem/Grades.md",
-    "Education/Uni/Freshman (1st year)/1sem/hw.md",
-    "Education/Meetup. SRE. T-Bank.md",
-    "_resources/Images/Pasted image 20260626211111.png",
-    "_resources/Images/Pasted image 20260626190548.png",
-    "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
-    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
-    "Education/Goals.md",
-    "Daily/2026-06-22.md",
-    "Daily/2025-07-29.md",
-    "Untitled.md",
-    "Education/Uni/Freshman (1st year)/1sem/Attestation.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 4. Динамика.md",
+    "Education/Courses/2026/AnSD(T-Bank)/Seminar 1.md",
+    "Education/Courses/2026/AnSD(T-Bank)/Lection 2.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Subjects/PhysEduc/Seminar 2.md",
+    "Education/Courses/2026/PrepYSDA/algebra.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Subjects/PhysEduc",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 4. Boot Process & Systemd Deep Dive.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 2-3. SRE Практики.md",
+    "Education/Courses/2026/PrepYSDA/combinatorics.md",
+    "Education/Courses/2026/PrepYSDA/algorithms-and-data-structures.md",
+    "Education/Courses/2026/PrepYSDA/shad-exam-analysis.md",
+    "Education/Courses/2026/PrepYSDA/shad-prep-plan.md",
+    "Education/Courses/2026/PrepYSDA/probability-theory.md",
+    "Education/Courses/2026/PrepYSDA/mathematical-analysis.md",
+    "Education/Courses/2026/PrepYSDA",
+    "Education/Courses/2026/AnSD",
+    "Education/Courses/2026/PrepYSDA/probtheory.md",
+    "Education/Courses/2026/PrepYSDA/mathan.md",
+    "Education/Courses/2026/PrepYSDA/ansd.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Physics 2.8/Lecture 1..md",
+    "Education/Courses/2026/PrepYSDA",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 5. Законы сохранения.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 7. Динамика вращения. Гравитационное поле. СТО.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 6. Законы сокращения. Динамика вращения.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 15. IaC Blitz. Terraform + Ansible Concepts.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 14. Security in Pipeline. DevSecOps Lite.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture X1. Content Delivery Network.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 9. СТО. Неинерциальная СТО.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 3. Кинематика.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 2. Кинематика.md",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 1.md",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 8. Гравитационное поле, СТО, неинерциальные СО.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 4. Boot Process & Systemd Deep Dive.md",
+    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8/Lecture 9. СТО. Неинерциальная СТО.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Attestation.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Grades.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/hw.md",
+    "Education/Uni/Freshman (1st year)/2sem/hw.md",
+    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
+    "Education/Uni/Freshman (1st year)/2sem/Attestation.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Untitled.canvas",
+    "Education/Uni/Sophomore (2nd year)/3sem/Untitled.base",
+    "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Physics 2.8",
+    "Education/Uni/Sophomore (2nd year)/3sem/Subjects",
+    "Education/Uni/Sophomore (2nd year)/3sem",
+    "Education/Uni/Sophomore (2nd year)",
+    "_resources/Images/Pasted image 20260626211111.png",
+    "_resources/Images/Pasted image 20260626190548.png",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Периоды войны.canvas",
     "Untitled",
     "_resources/Images/Pasted image 20260527114831.png",
@@ -249,15 +246,6 @@
     "_resources/Images/Pasted image 20260516110901.png",
     "_resources/Images/Pasted image 20260516110001.png",
     "Education/Uni/Freshman (1st year)/2sem/Subjects/History/Перестройка.canvas",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/English",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS/Untitled",
-    "Education/Courses/2026/DevOps n SRE (VK Education)",
-    "Education/Courses/2026/AnSD(T-Bank)",
-    "Education/Courses/2026",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/FoRS",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/History",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects/Physics 1.8",
-    "Education/Uni/Freshman (1st year)/2sem/Subjects",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/IntroInPr/Untitled.canvas",
     "Education/Uni/Freshman (1st year)/1sem/Subjects/Untitled.canvas"
   ]

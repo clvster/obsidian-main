@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "extended-colorshemes",
     "indent"
-  ]
+  ],
+  "theme": "obsidian"
 }
