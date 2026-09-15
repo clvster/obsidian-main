@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Physics 2.8/Lecture 2.  Напряжённость поля протяжённых зарядов. Теорема Гаусса.md",
+                "file": "Education/Courses/2026/PrepYSDA/combinatorics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2.  Напряжённость поля протяжённых зарядов. Теорема Гаусса"
+              "title": "combinatorics"
             }
           }
         ]
@@ -197,8 +197,19 @@
   },
   "active": "6207bf20378a8af0",
   "lastOpenFiles": [
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 11. Netfilter, iptables & Routing tables.md",
+    "Education/Courses/2026/PrepYSDA/probability-theory.md",
+    "Education/Courses/2026/PrepYSDA/algebra.md",
+    "Education/Courses/2026/PrepYSDA/mathematical-analysis.md",
+    "Education/Courses/2026/PrepYSDA/combinatorics.md",
+    "Education/Courses/2026/PrepYSDA/shad-prep-plan.md",
+    "Education/Courses/2026/PrepYSDA/shad-exam-analysis.md",
+    "Education/Courses/2026/PrepYSDA/algorithms-and-data-structures.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Attestation.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Grades.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/hw.md",
+    "Education/Uni/Freshman (1st year)/2sem/hw.md",
     "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Physics 2.8/Lecture 2.  Напряжённость поля протяжённых зарядов. Теорема Гаусса.md",
+    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 11. Netfilter, iptables & Routing tables.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 12. GitFlow & Branching Strategies.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 14. GitOps. Flux и ArgoCD.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 14. Security in Pipeline. DevSecOps Lite.md",
@@ -212,19 +223,8 @@
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 4. Boot Process & Systemd Deep Dive.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture X1. Content Delivery Network.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 2-3. SRE Практики.md",
-    "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Math 3.3/Lecture 3.md",
-    "Education/Courses/2026/PrepYSDA/algorithms-and-data-structures.md",
     "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Math 3.3",
-    "Education/Courses/2026/AnSD(T-Bank)/Lection 2.md",
-    "Education/Courses/2026/AnSD(T-Bank)/Seminar 1.md",
-    "Education/Uni/Sophomore (2nd year)/3sem/Subjects/PhysEduc/Seminar 2.md",
-    "Education/Courses/2026/PrepYSDA/algebra.md",
     "Education/Uni/Sophomore (2nd year)/3sem/Subjects/PhysEduc",
-    "Education/Courses/2026/PrepYSDA/combinatorics.md",
-    "Education/Courses/2026/PrepYSDA/shad-exam-analysis.md",
-    "Education/Courses/2026/PrepYSDA/shad-prep-plan.md",
-    "Education/Courses/2026/PrepYSDA/probability-theory.md",
-    "Education/Courses/2026/PrepYSDA/mathematical-analysis.md",
     "Education/Courses/2026/PrepYSDA",
     "Education/Courses/2026/AnSD",
     "Education/Courses/2026/PrepYSDA",
