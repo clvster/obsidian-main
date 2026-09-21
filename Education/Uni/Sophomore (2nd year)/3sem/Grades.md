@@ -10,6 +10,7 @@ kanban-plugin: list
 
 ## Physics 2.8
 
+- [ ] ➕ 2026-09-20 | model №1 | 4/4
 
 
 ## OS
@@ -26,6 +27,7 @@ kanban-plugin: list
 
 ## Interfaces
 
+- [ ] ➕ 2026-09-19 | lab №1 | 3.8/4
 
 
 ## Project Work

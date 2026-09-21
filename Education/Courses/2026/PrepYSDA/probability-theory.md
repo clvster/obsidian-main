@@ -180,6 +180,8 @@
 # Теорвер
 [Теория вероятностей: Начальный уровень, Бесплатно \| курс на Stepik](https://stepik.org/course/3089/syllabus?auth=login)
 [Теория вероятностей - II (дискретные случайные процессы): Средний уровень, Бесплатно \| курс на Stepik](https://stepik.org/course/57281/syllabus?auth=registration)
+[Probability Theory (Spring 2024)](https://old.mccme.ru/ium/s24/s24-Probability.html)
+[MCCME: Moscow Center for Continuous Mathematical Education](https://mccme.ru/ru/nmu/courses-of-nmu/vesna-20252026/s26-terverpro/)
 
 Blitzstein intro to probability
 Севастьянов: Сборник задач по теории вероятностей
@@ -188,3 +190,6 @@ Blitzstein intro to probability
 Лекции: Шабанов
 Семинары: Шабанов
 ДЗ: Листочки Шабанова
+
+
+[Fetching Title#3azl](https://teach-in.ru/lecturer/serdobolskaya)
