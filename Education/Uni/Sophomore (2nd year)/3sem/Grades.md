@@ -15,14 +15,17 @@ kanban-plugin: list
 
 ## OS
 
+- [ ] ➕ 2026-09-25 | lab №1 | 7/7
 
 
 ## Java
 
+- [ ] ➕ 2026-09-26 | lab №1
 
 
 ## Mobile
 
+- [ ] ➕ 2026-09-24 | test №1 | 10/10
 
 
 ## Interfaces
@@ -40,6 +43,10 @@ kanban-plugin: list
 
 ## Phys. Educ L
 
+- [ ] ➕ 2026-09-25 | Test №2 | 7/7
+- [ ] ➕ 2026-09-25 | Test №1 | 1.84/2
+- [ ] ➕ 2026-09-25 | Seminar №1 | 5/5
+- [ ] ➕ 2026-09-25 | Seminar №3 | 5/5
 
 
 
