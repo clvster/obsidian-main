@@ -30,7 +30,8 @@ kanban-plugin: list
 
 ## Interfaces
 
-- [ ] ➕ 2026-09-19 | lab №1 | 3.8/4
+- [ ] ➕ 2026-09-28| lab №1 | 4/4
+- [ ] ➕ 2026-09-28 | lab №2 | 4/4
 
 
 ## Project Work

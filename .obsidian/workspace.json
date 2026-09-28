@@ -11,26 +11,14 @@
             "id": "6207bf20378a8af0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Education/Uni/Sophomore (2nd year)/3sem/hw.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Life/gym/Toji_Workouts.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "hw"
+              "icon": "lucide-file",
+              "title": "Toji_Workouts"
             }
           }
         ]
@@ -207,11 +195,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "009668f7b4ca279c",
+  "active": "6207bf20378a8af0",
   "lastOpenFiles": [
-    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
-    "Education/Uni/Sophomore (2nd year)/3sem/Grades.md",
+    "Life/gym/Toji_Guide.md",
+    "Life/gym/Toji_Workouts.md",
+    "Life/gym/Toji_Plan.md",
+    "Life/gym/План 1.md",
+    "Life/gym/Спина.md",
+    "Life/gym/План 3.md",
+    "Life/gym/План 2.md",
+    "Life/gym/Грудь.md",
+    "Life/Tasks.md",
     "Education/Uni/Sophomore (2nd year)/3sem/hw.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Grades.md",
+    "Education/Uni/Freshman (1st year)/2sem/Grades.md",
     "Education/Uni/Freshman (1st year)/2sem/hw.md",
     "Education/Courses/2026/PrepYSDA/MathAn/mathematical-analysis.md",
     "Education/Courses/2026/PrepYSDA/LinAl/algebra.md",
@@ -226,15 +223,6 @@
     "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Physics 2.8/Lecture 2.  Напряжённость поля протяжённых зарядов. Теорема Гаусса.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 15. IaC Blitz. Terraform + Ansible Concepts.md",
     "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 14. Security in Pipeline. DevSecOps Lite.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 14. GitOps. Flux и ArgoCD.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 13. CICD Architecture & Artifacts.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 11. Netfilter, iptables & Routing tables.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 10. DNS, HTTP.S & TLS internals.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 9. TCP, IP Model, Handshakes, States.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 17. Kubernetes Architecture & Pods.md",
-    "Education/Courses/2026/DevOps n SRE (VK Education)/Lecture 16. Container Internals. Namespaces && cgroups.md",
-    "Education/Uni/Sophomore (2nd year)/3sem/Attestation.md",
-    "Education/Courses/2026/PrepYSDA/LinAl/hw.md",
     "_resources/задачи тыртыш.pdf",
     "Education/Courses/2026/PrepYSDA/LinAl",
     "Education/Courses/2026/PrepYSDA/MathAn",
