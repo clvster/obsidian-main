@@ -6,15 +6,15 @@ kanban-plugin: board
 
 ## Disciplines
 
-- [ ] C++ | exam | exam 100 - 5
-- [ ] Math | exam | exam 62 - 3
-- [ ] Math logic | exam | 93 - grade 5
+- [ ] C++ | exam | N
+- [ ] Math | exam | N
+- [ ] Math logic | exam | N
 - [ ] History | credit | ✅
 - [ ] English | credit | ✅
-- [ ] Python | credit | ✅
-- [ ] Intro to IT | credit | ✅
-- [ ] Intro to PW | credit | ✅
-- [ ] Phys. Education | credit | ✅
+- [ ] python | credit | N
+- [ ] Introduction in IT | credit | N
+- [ ] Intro in Projects | credit | N
+- [ ] Phys. Education | credit | N
 
 
 

@@ -7,17 +7,8 @@ kanban-plugin: list
 ## Math
 
 - [ ] IHW1 | 1
-- [ ] CW1 | 4
-- [ ] IHW2 | 1.6
-- [ ] IHW3 | 2
-- [ ] RT | 5
-- [ ] ➕ 2025-11-12 | CW2 | 8.1
-- [ ] ➕ 2025-12-08 | IHW4 | 1.3
-- [ ] ➕ 2025-12-10 | CW3 | 6.2
-- [ ] ➕ 2025-12-16 | RT | 1.4
-- [ ] IHW5 | 2
-- [ ] IHW6 | N
-- [ ] ➕ 2025-12-24 | CW4 | N
+- [ ] CW | 4
+- [ ] IHW2 | N
 
 
 ## C++
@@ -25,13 +16,6 @@ kanban-plugin: list
 - [ ] ➕ 2025-09-23 | lab1 | 6
 - [ ] ➕ 2025-10-04 | lab2 | 6
 - [ ] ➕ 2025-10-16 | lab3 | 6
-- [ ] ➕ 2025-10-31 | lab4 | 8
-- [ ] ➕ 2025-11-20 | lab5 | 8
-- [ ] ➕ 2025-11-25 | Extra lab | 4
-- [ ] ➕ 2025-12-01 | Test | 9
-- [ ] ➕ 2025-12-04 | lab6 | 10
-- [ ] ➕ 2025-12-09 | lab7 | 8
-- [ ] ➕ 2025-12-16 | lab8 | 8
 
 
 ## Python
@@ -41,12 +25,7 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-06 | autotest3 | ?
 - [ ] ➕ 2025-10-06 | autotest4 | ?
 - [ ] ➕ 2025-10-10 | lab1 | 5
-- [ ] ➕ 2025-10-23 | lab2 | 10
-- [ ] ➕ 2025-11-16 | autotest 5 | ?
-- [ ] ➕ 2025-11-16 | autotest 6 | ?
-- [ ] ➕ 2025-11-16 | autotest 7 | ?
-- [ ] ➕ 2025-11-20 | lab3 | N
-- [ ] ➕ 2025-12-19 | lab4 | N
+- [ ] ➕ 2025-10-23 | lab2 | N
 
 
 ## Math logic & theory of algo
@@ -58,21 +37,9 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-13 | IHW3 | 3
 - [ ] ➕ 2025-10-20 | Test 3 | 2.5
 - [ ] ➕ 2025-10-22 | IHW4 | 2.1
-- [ ] ➕ 2025-11-05 | CW | 6
-- [ ] ➕ 2025-11-06 | Test 4 | 2.5
-- [ ] ➕ 2025-11-12 | ClassWork | 1
-- [ ] ➕ 2025-11-18 | Extra.Exercise theme №6 | 2.5
-- [ ] ➕ 2025-12-03 | ClassWork | 1
-- [ ] ➕ 2025-12-04 | CW | 8
-- [ ] ➕ 2025-12-07 | Test 5 | 4
-- [ ] ClassWork | 1
-- [ ] Lections | 1.5
-- [ ] Thing that all solves | 4
-- [ ] CW | 1
-- [ ] ➕ 2026-01-12 | Exam | 38
 
 
-## Introduction to IT
+## Introduction in IT
 
 - [ ] Lection1 | 0.5
 - [ ] Lection2 | 1
@@ -80,22 +47,10 @@ kanban-plugin: list
 - [ ] Lection4 | 1
 - [ ] Lection5 | 1
 - [ ] Lection6 | 1
-- [ ] Lection7 | 1
-- [ ] ➕ 2025-11-03 | Lection8 | 1
-- [ ] ➕ 2025-11-09 | Lection 9 | N
-- [ ] ➕ 2025-11-16 | Lection10 | N
-- [ ] ➕ 2025-11-23 | Lection 11 | N
-- [ ] ➕ 2025-11-30 | Lection12 | N
+- [ ] Lection7 | N
 - [ ] Lab1 | 4
 - [ ] Lab2 | 4
-- [ ] Lab4-5 | 8
-- [ ] ➕ 2025-11-06 | Lab6 | N
-- [ ] ➕ 2025-11-06 | Lab7 | 4
-- [ ] ➕ 2025-11-16 | Lab8-9 | 8
-- [ ] ➕ 2025-11-17 | Lab10-11 | 8
-- [ ] ➕ 2025-11-24 | Lab3 | N
-- [ ] ➕ 2025-12-07 | Lab12 | 4
-- [ ] ➕ 2025-12-11 | Hackathon | 34
+- [ ] Lab4-5 | N
 
 
 ## Physical Education
@@ -112,30 +67,12 @@ kanban-plugin: list
 - [ ] ➕ 2025-10-16 | Practice 10
 - [ ] ➕ 2025-10-20 | Practice 11
 - [ ] ➕ 2025-10-20 | CW | 3
-- [ ] ➕ 2025-10-23 | Practice 12
-- [ ] ➕ 2025-11-03 | Practice 13
-- [ ] ➕ 2025-11-06 | Practice 14
-- [ ] ➕ 2025-11-10 | Practice 15
-- [ ] ➕ 2025-11-13 | Practice 16
-- [ ] ➕ 2025-11-17 | Practice 17
-- [ ] ➕ 2025-11-20 | Practice 18
-- [ ] ➕ 2025-11-24 | Practice 19
-- [ ] ➕ 2025-11-27 | Practice 20
-- [ ] ➕ 2025-11-27 | CW | 1.5
-- [ ] ➕ 2025-12-04 | Practice 21
-- [ ] ➕ 2025-12-04 | CW | 1
-- [ ] ➕ 2025-12-08 | Practice 22
-- [ ] ➕ 2025-12-11 | Practice 23
-- [ ] ➕ 2025-12-15 | Practice 24
-- [ ] MedExam | Practice 25
+- [ ] ➕ 2025-10-23 | Practice12
 
 
 ## Introduction to PW
 
-- [ ] HW | Presentation | 5
-- [ ] IHW | 5
-- [ ] ➕ 2025-10-28 | CW | 3.7
-- [ ] ➕ 2025-12-23 | CW | 29
+- [ ] ➕ 2025-10-28 | CW | N
 
 
 ## English
@@ -161,14 +98,10 @@ kanban-plugin: list
 - [ ] Test 4 | 0.5
 
 
-***
 
-## Archive
-
-- [ ] 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[true,true,true,true,true,true,true,true,true],"full-list-lane-width":true}
+{"kanban-plugin":"list","show-checkboxes":false,"list-collapse":[true,true,true,true,true,true,false,true,true],"full-list-lane-width":true}
 ```
 %%
