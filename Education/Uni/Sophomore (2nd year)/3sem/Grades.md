@@ -26,6 +26,7 @@ kanban-plugin: list
 ## Mobile
 
 - [ ] ➕ 2026-09-24 | test №1 | 10/10
+- [ ] ➕ 2026-10-02 | test №2 | 10/10
 
 
 ## Interfaces

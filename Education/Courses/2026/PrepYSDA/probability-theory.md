@@ -178,18 +178,23 @@
 ---
 
 # Теорвер
-[Теория вероятностей: Начальный уровень, Бесплатно \| курс на Stepik](https://stepik.org/course/3089/syllabus?auth=login)
-[Теория вероятностей - II (дискретные случайные процессы): Средний уровень, Бесплатно \| курс на Stepik](https://stepik.org/course/57281/syllabus?auth=registration)
+[Теория вероятностей: Начальный уровень, Бесплатно \| курс на Stepik](https://stepik.org/course/3089/syllabus)
+[Теория вероятностей - II (дискретные случайные процессы): Средний уровень, Бесплатно \| курс на Stepik](https://stepik.org/course/57281/syllabus)
+
 [Probability Theory (Spring 2024)](https://old.mccme.ru/ium/s24/s24-Probability.html)
 [MCCME: Moscow Center for Continuous Mathematical Education](https://mccme.ru/ru/nmu/courses-of-nmu/vesna-20252026/s26-terverpro/)
 
 Blitzstein intro to probability
 Севастьянов: Сборник задач по теории вероятностей
 
-ВШЭ ПМИ Пилотный
-Лекции: Шабанов
-Семинары: Шабанов
-ДЗ: Листочки Шабанова
+[НМУ Шапошников, теорвер1](https://mccme.ru/ru/nmu/courses-of-nmu/osen-20252026/nmu_autumn2025_terver/)
+[НМУ Шапошников, теорвер2](https://mccme.ru/ru/nmu/courses-of-nmu/vesna-20252026/s26-terverpro/)
 
+[ВШЭ ПМИ Пилотный](https://wiki.cs.hse.ru/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9_%D0%B8_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_2021/2022_(%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA))
+[Лекции видео](https://www.youtube.com/playlist?list=PLEwK9wdS5g0qvYp7HsYVAVuTXD4PXrvES), [лекции читать](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FAEA1WCRwhmjtT9XuzYiywTj5IxtR2q9LmLfPMahE2azpVrVEaUXIOdWeRdbJMkl4q%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FLectures_Probability_Theory.pdf&name=Lectures_Probability_Theory.pdf&nosw=1): Шабанов
+[Семинары](https://www.youtube.com/playlist?list=PLEwK9wdS5g0qvYp7HsYVAVuTXD4PXrvES): Шабанов
+[ДЗ](https://wiki.cs.hse.ru/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9_%D0%B8_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_2021/2022_(%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA)#%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%94%D0%97): Листочки Шабанова
 
-[Fetching Title#3azl](https://teach-in.ru/lecturer/serdobolskaya)
+[Must have задачи по теорверу](https://mega.nz/folder/eRsFjAxJ#YI1dJEz-Z4MnmOslJ-2T0A/folder/HAdhEYzQ)
+
+[Семинары и лекции Сердобольской](https://teach-in.ru/lecturer/serdobolskaya)
