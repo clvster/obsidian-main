@@ -36,6 +36,7 @@ kanban-plugin: list
 
 - [ ] ➕ 2026-09-28| lab №1 | 4/4
 - [ ] ➕ 2026-09-28 | lab №2 | 4/4
+- [ ] ➕ 2026-10-09 | lab №3 | 4/4
 
 
 ## Project Work

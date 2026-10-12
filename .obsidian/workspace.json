@@ -11,20 +11,14 @@
             "id": "6207bf20378a8af0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Education/Courses/2026/PrepYSDA/MathAn/hw.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Education/Courses/2026/PrepYSDA/MathAn/mathematical-analysis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "hw"
+              "icon": "lucide-file",
+              "title": "mathematical-analysis"
             }
           }
         ]
@@ -203,17 +197,18 @@
   },
   "active": "6207bf20378a8af0",
   "lastOpenFiles": [
-    "Education/Courses/2026/PrepYSDA/ProbTheory/hw.md",
-    "Education/Uni/Sophomore (2nd year)/3sem/hw.md",
     "Education/Courses/2026/PrepYSDA/MathAn/hw.md",
-    "Education/Courses/2026/PrepYSDA/MathAn/mathematical-analysis.md",
-    "Education/Uni/Sophomore (2nd year)/3sem/Grades.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/hw.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Physics 2.8/Lecture 5..md",
     "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Physics 2.8/Lecture 4. Потенциал. Теорема о циркуляции.md",
+    "Education/Courses/2026/PrepYSDA/LinAl/hw.md",
+    "Education/Courses/2026/PrepYSDA/ProbTheory/hw.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Grades.md",
+    "Education/Courses/2026/PrepYSDA/MathAn/mathematical-analysis.md",
+    "Education/Courses/2026/PrepYSDA/LinAl/algebra.md",
+    "Education/Courses/2026/PrepYSDA/ProbTheory/probability-theory.md",
     "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Physics 2.8/Lecture 3. Теорема Гаусса. Потенциал.md",
     "Life/gym/Toji_Workouts.md",
-    "Education/Courses/2026/PrepYSDA/ProbTheory/probability-theory.md",
-    "Education/Courses/2026/PrepYSDA/LinAl/algebra.md",
-    "Education/Courses/2026/PrepYSDA/LinAl/hw.md",
     "Education/Courses/2026/PrepYSDA/ProbTheory/Untitled.md",
     "Education/Courses/2026/PrepYSDA/ProbTheory",
     "Education/Courses/2026/PrepYSDA/algorithms-and-data-structures.md",
@@ -229,7 +224,6 @@
     "Life/gym/Грудь.md",
     "Life/gym/Toji_Plan.md",
     "Life/gym/План 1.md",
-    "Life/gym/Спина.md",
     "_resources/задачи тыртыш.pdf",
     "Education/Courses/2026/PrepYSDA/LinAl",
     "Education/Courses/2026/PrepYSDA/MathAn",
