@@ -7,7 +7,7 @@ kanban-plugin: list
 ## Демидович
 
 - [ ] ➕ 2026-09-18 | №2, 3, 6, 7, 10
-- [ ] ➕ 2026-09-29 | Д. 42б, 43б, 48 (б.м.п * огр = б.м.п), 50, 51 (ф-у для суммы первых n чисел), 53, 68, 57
+- [x] ➕ 2026-09-29 | Д. 42б, 43б, 48 (б.м.п * огр = б.м.п), 50, 51 (ф-у для суммы первых n чисел), 53, 68, 57 ✅ 2026-10-14
 
 
 ## Задавальник
@@ -21,10 +21,14 @@ kanban-plugin: list
 
 
 
+## Вернуться
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false],"show-checkboxes":true,"full-list-lane-width":true}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false],"show-checkboxes":true,"full-list-lane-width":true}
 ```
 %%

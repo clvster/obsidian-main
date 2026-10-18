@@ -17,10 +17,14 @@ kanban-plugin: list
 
 
 
+## Вернуться
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false],"show-checkboxes":true,"full-list-lane-width":true}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false],"show-checkboxes":true,"full-list-lane-width":true}
 ```
 %%

@@ -6,11 +6,13 @@ kanban-plugin: list
 
 ## Math 3.3
 
+- [ ] ➕ 2026-10-13 | CW №1 | 7.9
 
 
 ## Physics 2.8
 
 - [ ] ➕ 2026-09-20 | model №1 | 4/4
+- [ ] ➕ 2026-10-15 | model №2 | 4/4
 
 
 ## OS
