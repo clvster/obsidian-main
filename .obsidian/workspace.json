@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Education/Uni/Sophomore (2nd year)/3sem/hw.md",
+                "file": "Education/Uni/Sophomore (2nd year)/3sem/Grades.md",
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
@@ -30,7 +30,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "hw"
+              "title": "Grades"
             }
           }
         ]
@@ -209,17 +209,22 @@
   },
   "active": "251a231663657097",
   "lastOpenFiles": [
+    "Education/Uni/Sophomore (2nd year)/3sem/hw.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Grades.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Attestation.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Physics 2.8/Practice.md",
+    "Education/Uni/Sophomore (2nd year)/3sem/Subjects/Physics 2.8/Lecture 1..md",
+    "Life/gym/Toji_Updated_2026-11-04/Toji_Plan_updated_2026-11-04.md",
+    "Life/gym/Toji_Updated_2026-11-04/Toji_Workouts_updated_2026-11-04.md",
+    "Education/Courses/2026/PrepYSDA/shad-weekly-plan.md",
     "Life/gym/Toji_Updated_2026-11-04/Toji_Guide_updated_2026-11-04.md",
+    "Education/Goals.md",
     "Life/gym/Toji_Updated_2026-11-04/Back_Exercises_updated_2026-11-04.md",
     "Life/gym/Toji_Workouts.md",
-    "Life/gym/Toji_Updated_2026-11-04/Toji_Workouts_updated_2026-11-04.md",
-    "Life/gym/Toji_Updated_2026-11-04/Toji_Plan_updated_2026-11-04.md",
     "Life/gym/Toji_Updated_2026-11-04/Chest_Exercises_updated_2026-11-04.md",
     "Life/gym/Toji_Updated_2026-11-04/README.txt",
     "Life/gym/Toji_Updated_2026-11-04",
-    "Education/Uni/Sophomore (2nd year)/3sem/hw.md",
     "Education/Courses/2026/PrepYSDA/MathAn/hw.md",
-    "Education/Uni/Sophomore (2nd year)/3sem/Grades.md",
     "Life/gym/toji/Toji_Workouts.md",
     "Life/gym/toji/Weekly_Summary.md",
     "Life/gym/toji/Toji_Guide.md",
@@ -234,11 +239,6 @@
     "Life/gym/toji/sources_original/План 3.md",
     "Life/gym/toji/sources_original/План 2.md",
     "Life/gym/toji/sources_original/План 1.md",
-    "Life/gym/toji/sources_original/Грудь.md",
-    "Life/gym/toji/sources_original/Toji_Workouts.md",
-    "Life/gym/toji/sources_original/Toji_Plan.md",
-    "Life/gym/toji/sources_original/Toji_Guide.md",
-    "Life/gym/toji/sources_original/PERSONAL_PROFILE.md",
     "Life/gym/toji/sources_original",
     "Life/gym/toji/skeletal_muscle_trend.png",
     "Life/gym/toji/Training_Log.csv",
